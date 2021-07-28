@@ -19,18 +19,18 @@ read num1 vop num2
 case $vop in
     +)
     # code if match
-        echo -e "${blue}Answer = $(expr $num1 + $num2)"
+        echo -e "${blue}Answer = $(expr $num1 + $num2)${endcolour}"
     ;;
     -)
     # code if match
-        echo -e "${green}Answer = $(expr $num1 - $num2)"
+        echo -e "${green}Answer = $(expr $num1 - $num2)${endcolour}"
     ;;
     x)
     # code if match
-        echo -e "${red}Answer = $(expr $num1 \* $num2)"
+        echo -e "${red}Answer = $(expr $num1 \* $num2)${endcolour}"
     ;;
     /) # default case
-        echo -e "${purple}Answer = $(expr $num1 / $num2)"
+        echo -e "${purple}Answer = $(expr $num1 / $num2)${endcolour}"
     # code if default case
     ;;
 esac

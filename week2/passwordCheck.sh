@@ -2,25 +2,31 @@
 
 # Gary Hanley - Scripting Languages Week 2.4
 
+bold="`tput bold`"
+green="`tput setaf 2`"
+blue="`tput setaf 4`"
+red="`tput setaf 1`"
+sgr0="`tput sgr0`"
+
 # Ask user to enter Password to check
-read -sp "Enter the Secret Password : " password
+read -esp "${red}Enter the Secret Password : ${sgr0}" password
 
 # Add encrypted password to variable to use later
 spass="$(echo "$password" | sha256sum )"
-echo
+
 #echo "spass = " $spass
 
 # get stored password from text file
-tpass=$(<password/secret.txt)
+tpass=$(<~/scripts/portfolio/week2/password/secret.txt)
 #echo "tpass = " $tpass
 
 echo
 # Check that the passwords match
 if [[ $spass  == $tpass ]] ; then
-    echo "Access Granted"
+    echo "${green}Access Granted${sgr0}"
     exit 0
 else
-    echo "Access Denied" 
+    echo "${red}Access Denied${sgr0}" 
     echo "GoodBye"
     exit 1
 fi
