@@ -1,7 +1,10 @@
 #!/bin/bash
+#Copyright 2021 Gary Hanley - Scripting Languages Week 2.4
+#Created - 22/07/2021
+#PasswordCheck - Checks entered password against encrpted secret.txt
+#Allows access if correct else Exits
 
-# Gary Hanley - Scripting Languages Week 2.4
-
+#Set colour variables
 bold="`tput bold`"
 green="`tput setaf 2`"
 blue="`tput setaf 4`"
