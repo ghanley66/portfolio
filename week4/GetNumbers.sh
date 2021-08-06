@@ -9,7 +9,7 @@ printError()
 getNumber()
 
 {
-    read -p "$1: "
+    read -p "$1: " 
 
     while (( $REPLY < $2 || $REPLY> $3 )); do
 
@@ -19,9 +19,7 @@ getNumber()
     done
 }
 
-echo "this is the start of the script"
+echo "This is the start of the script"
 
-getNumber "please type a number between 1 and 10" 1 10
-echo "Thank you!"
-getNumber "please type a number between 50 and 100" 50 100
+getNumber "please type a number between 1 and 100" 1 100
 echo "Thank you!"

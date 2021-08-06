@@ -1,7 +1,7 @@
 #!/bin/bash
 #Copyright 2021 Gary Hanley - Scripting Languages Week 2.4
 #Created - 22/07/2021
-#PasswordCheck - Checks entered password against encrpted secret.txt
+#PasswordCheck - Checks entered password against encrypted secret.txt
 #Allows access if correct else Exits
 
 #Set colour variables
