@@ -1,7 +1,8 @@
 #!/bin/bash
 #Copyright 2021 Gary Hanley - Scripting Languages Week 3.6
 #Created - 26/07/2021
-# MegaMenu - A secured menu to run various scripts
+#MegaMenu - A secured menu to run various scripts
+#After entering correct password the user can access the menu.
 
 bold="`tput bold`"
 red="`tput setaf 1`"
