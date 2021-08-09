@@ -1,7 +1,7 @@
 #!/bin/bash
 #Copyright 2021 Gary Hanley - Scripting Languages Week 4.5
 #Created - 30/07/2021
-#IpAddressesOnly - reads in IFConfig information and Prints only the IP Addresses
+#IpAddressesOnly - reads in IFConfig information and Prints only the IP Addresses on this computer
 
 #get info about networking from the ifconfig command
 net_info="$(ifconfig)"
