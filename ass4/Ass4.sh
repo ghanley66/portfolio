@@ -14,18 +14,22 @@ function scrape_webpage() {
 }
 
 function format_html() {
+    sed -i '/<h3>.*2021<\/h3>/,$!d' $outfile
+    #sed -i '/<h3>.*\\d{4}<\/h3>/,$!d' $outfile
+    #sed -i '/<h3>.*[2021,2020,2019,2018]<\/h3>/,$!d' $outfile
+    #sed -i '/LimeVPN/,$!d' $outfile
+
     grep '.*' $outfile | 
     sed -n '/[<h3><li>]/ {
     s/<[^>]*>//g
     s/&#8211;/-/g
     s/&#8217;//g
     s/2017, reported //;  s/Update//
-    s/January//g; s/February//g;s/March//g; s/April//g;s/May//g; s/June//g;
-    s/July//g; s/August//g;s/September//g; s/October//g;s/November//g; s/December//g
+    #s/[January,February,March,April,May,June,July,August,September,October,November,December]//g
     p
     }' > temp.txt
 
-    sed -i '/India/,$!d' temp.txt
+    
 
     #sed -i 1,10d temp.txt    
 }
@@ -36,16 +40,18 @@ echo    # (optional) move to a new line
 #if [[ $REPLY =~ ^[Yy]$ ]]
 
 
-if [[ "$1" == "L" ]]
+if [[ "$1" == "L" ]] || [[ "$2" == "L" ]]
 then
     #awk '/.*-.*[0-9]{4}$/ {print}' temp.txt
     awk -f ass4list.awk temp.txt
 fi
     awk -f ass4.awk temp.txt;
-
-    awk -f bar_data.awk temp.txt > bar_data
-
-    gnuplot bar_data_config.gnu
+echo $2
+if [[ "$1" == "G" ]] || [[ "$2" == "G" ]]
+then
+    awk -f bar_data.awk temp.txt > bar_data.dat
+    gnuplot -persist bar_data_config.gnu
+fi
 }
 
 
@@ -54,4 +60,4 @@ echo -e "Significant Data Breaches Past 4 years:"
 
 scrape_webpage
 format_html
-print_data $1
+print_data $1 $2
