@@ -1,9 +1,10 @@
 #!/usr/bin/python3
 
 #Copyright 2021 Gary Hanley - Scripting Languages Week 6.6
-#Created - 05/2021
+#Created - 05/08/2021
 #Brute Force Attack
 #Input: Request Password to crack - to keep it quick use 3 digits beginning with 'a' or 'b'
+#Then he script will crack it
 
 import hashlib
 import itertools
