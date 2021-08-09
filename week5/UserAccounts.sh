@@ -1,7 +1,7 @@
 #!/bin/bash
 #Copyright 2021 Gary Hanley - Scripting Languages Week 5.5
 #Created - 03/08/2021
-# Advanced AWK - Format /etc/passwd in neat Table
+#Advanced AWK - Format /etc/passwd in neat Table
 
 awk 'BEGIN {
 
