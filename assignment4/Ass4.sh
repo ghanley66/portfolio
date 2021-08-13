@@ -23,25 +23,28 @@ function scrape_webpage() {
     $curl -s $url > $outfile   
 }
 
-#Remove unwanted text and clean up html
+#Remove unwanted text and clean up data
 function format_html() {
-    sed -i '/<h3>.*2021<\/h3>/,$!d' $outfile
+    sed -i '/<h3>.*&#8211;.*<\/h3>/,$!d' $outfile
+    sed -i '/482180/q' $outfile
     #sed -i '/<h3>.*<\/h3>/,$!d' $outfile
     #sed -i '/<h3>.*\\d{4}<\/h3>/,$!d' $outfile
-    grep '.*' $outfile | sed -n '/[<h3><li>]/ {
+    grep ".*" $outfile | sed -n '/[<h3><li>]/ {
     s/<[^>]*>//g
-    s/&#8211; 2020/ -  2020/g
-    s/&#8211;  July 2018/ - July 2018/g
+    s/&#8211; 2020/- December 2020/
+    s/&#8211; 2020/ -  2020/    
+    s/&#8211;  July 2018/ - July 2018/
     s/&#8211;/-/g
     s/&#8217;//g
     s/2017, reported //;  s/Update//
-    s/January//g; s/February//g; s/March//g; s/April//g; s/May//g; s/June//g; 
-    s/July//g; s/August//g; s/September//g; s/October//g; s/November//g; s/December//g
+    #s/January//g; s/February//g; s/March//g; s/April//g; s/May//g; s/June//g; 
+    #s/July//g; s/August//g; s/September//g; s/October//g; s/November//g; s/December//g
     p
     }' > temp.txt
     
     #sed -i 1,10d temp.txt    
 }
+
 
 #Logical script to Print based on Command line input
 function print_data() {
@@ -53,15 +56,16 @@ echo
 #If Command Line Parameter == "List" then show list
 if [ "$1" == "List" ] || [ "$2" == "List" ] || [ "$3" == "List" ]
 then
+    format_html
     #Print List
     echo "Significant Data Breaches Past 4 years:"
-
     awk -f ass4list.awk temp.txt
 fi
 
 #If Command Line Parameter == "Count" then show list
 if [ "$1" == "Count" ] || [ "$2" == "Count" ] || [ "$3" == "Count" ]
 then
+    format_html
     #Print Count 
     echo "Significant Data Breaches Past 4 years:"
     awk -f ass4.awk temp.txt;
@@ -70,10 +74,33 @@ fi
 #If Command Line Parameter == "Chart" then show Chart
 if [ "$1" == "Chart" ] || [ "$2" == "Chart" ] || [ "$3" == "Chart" ]
 then
+    format_html
     #create data file for gnuplot
     awk -f bar_data.awk temp.txt > bar_data.dat
     # Plot Bar chart
     gnuplot -persist bar_data_config.gnu
+fi
+
+#If Command Line Parameter == "List" then show list
+if [ "$1" == "State" ] || [ "$2" == "State" ] || [ "$3" == "State" ]
+then
+    #Print List
+    echo "Significant Data Breaches for Past 4 Years by State:"
+    source ./state.sh
+    echo
+    echo "Significant Data Breaches for $state - Past 4 Years:"
+    #sed -i -n "/$state/p" output.txt
+    #awk -v a="$state" '/<h3>/{myvar = $0};/a/{ print myvar }' output.txt > temp.txt
+    awk '/<h3>/{myvar = $0}/'$state'/{ print myvar }' output.txt > temp && mv temp output.txt
+    
+    format_html
+    #Remove duplicate lines
+    awk '!seen[$0]++' temp.txt > temp && mv temp temp.txt
+
+    awk -f ass4list.awk temp.txt
+
+
+
 fi
 }
 
@@ -81,7 +108,6 @@ echo
 
 #Run Script Functions
 scrape_webpage
-format_html
 print_data $1 $2 $3
 
 exit 0

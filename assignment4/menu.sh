@@ -22,9 +22,10 @@ do
     echo "${blue}Select an Option:${sgr0}" 
     echo "${yellow}1. Data Breaches By Year"
     echo "2. List All Data Breaches"
-    echo "3. Display Chart"
-    echo "4. Show All$sgr0"
-    echo "5. Exit"
+    echo "3. List Data Breaches by State/Keyword"
+    echo "4. Display Chart"
+    echo "5. Show All${sgr0}"
+    echo "0. Exit"
 
 # Run option selected
 read -p "" myoption
@@ -42,19 +43,28 @@ case $myoption in
         ./Ass4.sh List
         ;;
     3)
+        #tree
+        #echo "List All Data Breaches"
+        clear
+        ./Ass4.sh State
+        ;;
+    4)
         #echo "Display Chart"
         clear
         figlet "Chart"
         ./Ass4.sh Chart
         ;;
-    4)
+    5)
         #echo "All:"
         ./Ass4.sh Chart List Count
         ;;
-    5)
+    0)
         #echo "Exit"
         echo "Closing..."
         exit 0
+        ;;
+    *)  
+        echo "${red}Not a valid option${sgr0}"
         ;;
 esac
 done

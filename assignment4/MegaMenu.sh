@@ -32,7 +32,7 @@ do
     echo "6. Check Filenames"
     echo "7. Download a File"
     echo "${green}8. Assignment 4${sgr0}"    
-    echo "9. Exit"
+    echo "0. Exit"
 
     # Run option selected
     # INPUTS:   myoption
@@ -73,7 +73,7 @@ do
             #echo "Assignment 4:"
             ../assignment4/menu.sh
             ;;            
-        9)
+        0)
             #echo "Exit"
             echo "Closing..."
             exit 1
