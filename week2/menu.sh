@@ -11,6 +11,7 @@ then
     echo "1. Create a Folder"
     echo "2. Copy a Folder"
     echo "3. Set a Password"
+    echo "4. Assignment 4"
 fi
 
 # Run option selected
@@ -29,6 +30,10 @@ case $myoption in
     3)
         #echo "Set Password:"
         ./setPassword.sh
+        ;;
+    4)
+        #echo "Assignment 4:"
+        /home/gary/scripts/portfolio/assignment4/Ass4.sh
         ;;
 esac
 

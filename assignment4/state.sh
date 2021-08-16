@@ -1,6 +1,8 @@
-#Copyright 2021 Gary Hanley - Scripting Languages Week 2.5
+#!/bin/bash
+#Copyright 2021 Gary Hanley - Scripting Languages Assignment 4
+#Created - 03/08/2021
 
-# Call Password Checker
+# Call Password Checker - comment out as start with MegaMenu where we check password.
 #./passwordCheck.sh
 
 bold="`tput bold`"

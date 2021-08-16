@@ -24,8 +24,9 @@ do
     echo "4. Calculator"
     echo "5. Create Week Folders"
     echo "6. Check Filenames"
-    echo "7. Download a File${sgr0}"
-    echo "8. Exit"
+    echo "7. Download a File"
+    echo "8. Assignment 4${sgr0}"    
+    echo "9. Exit"
 
     # Run option selected
     # INPUTS:   myoption
@@ -63,6 +64,10 @@ do
             ./downloader.sh
             ;;
         8)
+            #echo "Assignment 4:"
+            /home/gary/scripts/portfolio/assignment4/Ass4.sh
+            ;;            
+        9)
             #echo "Exit"
             echo "Closing..."
             exit 1

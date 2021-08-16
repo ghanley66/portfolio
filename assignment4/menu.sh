@@ -1,10 +1,20 @@
-#Copyright 2021 Gary Hanley - Scripting Languages Week 2.5
+#!/bin/bash
+#Copyright 2021 Gary Hanley - Scripting Languages Assignment 4
+#Created - 03/08/2021
+#Displays Menu for Assignment 4
 
 # Call Password Checker
 #./passwordCheck.sh
 
+#This function prints a given error
+printError()
+{
+    echo -e "\033[31mERROR:\033[0m $1"
+}
+
 clear
 
+#set variables for colours
 bold="`tput bold`"
 red="`tput setaf 1`"
 green="`tput setaf 2`"
@@ -12,7 +22,7 @@ yellow="`tput setaf 3`"
 blue="`tput setaf 4`"
 sgr0="`tput sgr0`"
 
-# If Password is correct Show menu and loop until 5. Exit is selected
+# If Password is correct Show menu and loop until 0. Exit is selected
 while [ $? -eq 0 ]
 do
     
@@ -64,7 +74,7 @@ case $myoption in
         exit 0
         ;;
     *)  
-        echo "${red}Not a valid option${sgr0}"
+        printError "Not a valid option!"
         ;;
 esac
 done

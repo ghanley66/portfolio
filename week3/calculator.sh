@@ -35,7 +35,4 @@ case $vop in
     ;;
 esac
 
-
-
 exit 0
-

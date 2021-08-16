@@ -3,10 +3,14 @@
 #Created - 03/08/2021
 #Bash script to get Cyber Security Data from a website abd present it in a table and chart
 #Default run Prints out a table of Count of Breaches by Year in a table
-#Command Line parameters "L" and "C" 
-#"L" - Prints out a list of all Data Breaches 2018 -2021
-#"C" - Shows a bar chart as well
-#Run like ./Ass4.sh or ./Ass4.sh L or ./Ass4.sh C or ./Ass4.sh L C or ./Ass4.sh C L
+#Command Line parameters "List", "Count", "Chart" & "State"
+#"List" - Prints out a list of all Data Breaches 2018 -2021
+#"Chart" - Shows a bar chart as well
+#"Count" - Shows a table that does a count on keywords
+#"State" - List Breaches by State or List based on any keyword
+#Command line Parameters can be run in any order
+#Run like ./Ass4.sh or ./Ass4.sh List or ./Ass4.sh Count or ./Ass4.sh List Count or ./Ass4.sh Count List
+#Or start with ./MegaMenu.sh
 
 #curl website to output.txt
 url="https://www.webberinsurance.com.au/data-breaches-list"
@@ -45,7 +49,6 @@ function format_html() {
     #sed -i 1,10d temp.txt    
 }
 
-
 #Logical script to Print based on Command line input
 function print_data() {
 #Commented this out to use command line parameters instead
@@ -81,7 +84,7 @@ then
     gnuplot -persist bar_data_config.gnu
 fi
 
-#If Command Line Parameter == "List" then show list
+#If Command Line Parameter == "State" then show Sate or search by keyword
 if [ "$1" == "State" ] || [ "$2" == "State" ] || [ "$3" == "State" ]
 then
     #Print List
