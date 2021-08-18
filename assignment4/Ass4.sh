@@ -34,16 +34,16 @@ function format_html() {
     #sed -i '/<h3>.*<\/h3>/,$!d' $outfile
     #sed -i '/<h3>.*\\d{4}<\/h3>/,$!d' $outfile
     grep ".*" $outfile | sed -n '/[<h3><li>]/ {
-    s/<[^>]*>//g
-    s/&#8211; 2020/- December 2020/
-    s/&#8211; 2020/ -  2020/    
-    s/&#8211;  July 2018/ - July 2018/
-    s/&#8211;/-/g
-    s/&#8217;//g
-    s/2017, reported //;  s/Update//
-    #s/January//g; s/February//g; s/March//g; s/April//g; s/May//g; s/June//g; 
-    #s/July//g; s/August//g; s/September//g; s/October//g; s/November//g; s/December//g
-    p
+        s/<[^>]*>//g
+        s/&#8211; 2020/- December 2020/
+        s/&#8211; 2020/ -  2020/    
+        s/&#8211;  July 2018/ - July 2018/
+        s/&#8211;/-/g
+        s/&#8217;//g
+        s/2017, reported //;  s/Update//
+        #s/January//g; s/February//g; s/March//g; s/April//g; s/May//g; s/June//g; 
+        #s/July//g; s/August//g; s/September//g; s/October//g; s/November//g; s/December//g
+        p
     }' > temp.txt
     
     #sed -i 1,10d temp.txt    
@@ -89,6 +89,7 @@ if [ "$1" == "State" ] || [ "$2" == "State" ] || [ "$3" == "State" ]
 then
     #Print List
     echo "Significant Data Breaches for Past 4 Years by State:"
+    #include State selection and return $state
     source ./state.sh
     echo
     echo "Significant Data Breaches for $state - Past 4 Years:"

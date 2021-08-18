@@ -1,8 +1,8 @@
 #!/bin/bash
 #Copyright 2021 Gary Hanley - Scripting Languages Assignment 4
 #Created - 03/08/2021
-
-# Call Password Checker - comment out as start with MegaMenu where we check password.
+#Asks user to select State or keyword 
+#Returns $state to Ass4.sh
 #./passwordCheck.sh
 
 bold="`tput bold`"
