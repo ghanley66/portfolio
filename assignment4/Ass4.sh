@@ -14,6 +14,7 @@
 
 #curl website to output.txt
 url="https://www.webberinsurance.com.au/data-breaches-list"
+#url="file:///home/gary/scripts/portfolio/assignment4/ass4web/data-breaches-list"
 curl=$(which curl) 
 outfile="output.txt" 
 
@@ -39,8 +40,9 @@ function format_html() {
         s/&#8211; 2020/ -  2020/    
         s/&#8211;  July 2018/ - July 2018/
         s/&#8211;/-/g
+        s/|/-/g
         s/&#8217;//g
-        s/2017, reported //;  s/Update//
+        s/2017, reported //;  s/ Update//
         #s/January//g; s/February//g; s/March//g; s/April//g; s/May//g; s/June//g; 
         #s/July//g; s/August//g; s/September//g; s/October//g; s/November//g; s/December//g
         p
