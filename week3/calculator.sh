@@ -22,7 +22,7 @@ case $vop in
         echo -e "${blue}Answer = $(expr $num1 + $num2)${endcolour}"
     ;;
     -)
-    # code if match
+    # code if match 
         echo -e "${green}Answer = $(expr $num1 - $num2)${endcolour}"
     ;;
     x)

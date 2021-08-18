@@ -69,7 +69,7 @@ do
             ;;            
         9)
             #echo "Exit"
-            echo "Closing..."
+            echo "Closing...."
             exit 1
             ;;
     esac
