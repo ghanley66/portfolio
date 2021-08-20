@@ -10,6 +10,18 @@ import hashlib
 import itertools
 import string
 
+#Set class for Colours
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
 #Ask for secret Password
 password = input("Enter a 3 character alphanumeric secret password! : ")
 
@@ -31,11 +43,11 @@ def guess_password(real):
             #hash the guess
             guesshash = hashlib.sha256(guess.encode("utf-8")).hexdigest()
 
-            #print(f"Trying password {guess}:{guesshash}")
+            print(f"Trying password | " + bcolors.WARNING + f"{guess} | " + bcolors.ENDC + f"{guesshash}")
 
             #if the hash is the same as the correct password's hash then we have cracked the password!
             if guesshash == real:            
-                return 'Password has been cracked! It was {}. found in {} guesses.'.format(guess, attempts)
+                return bcolors.OKGREEN + 'Password has been cracked! It was {}. found in {} guesses.'.format(guess, attempts)
                 break                
 
 #Call function and enter password to hash
