@@ -12,6 +12,10 @@
 #Run like ./Ass4.sh or ./Ass4.sh List or ./Ass4.sh Count or ./Ass4.sh List Count or ./Ass4.sh Count List
 #Or start with ./MegaMenu.sh
 
+#Ask for password if not previously entered via Menu
+if [ $? -eq 0 ] ; then ~/scripts/portfolio/week2/passwordCheck.sh
+fi
+
 #curl website to output.txt
 url="https://www.webberinsurance.com.au/data-breaches-list"
 #Downloaded website incase offline
