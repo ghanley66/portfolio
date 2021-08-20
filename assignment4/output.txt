@@ -1,0 +1,1190 @@
+<h3>LimeVPN &#8211; July 2021</h3>
+<ul>
+<li><a href="https://au.pcmag.com/vpn/88045/limevpn-suffers-major-data-breach-over-69k-users-at-risk" target="_blank" rel="noopener">LimeVPN Suffers Major Data Breach, Over 69K Users at Risk</a> | A hacker stole the backup database, customer payment details, private keys, and took the website offline.</li>
+</ul>
+<h3>Morningstar &#8211; June 2021</h3>
+<ul>
+<li><a href="https://www.afr.com/companies/professional-services/morningstar-data-breach-reveals-kpmg-dealmaker-lists-20210629-p585c8" target="_blank" rel="noopener">Morningstar data breach reveals KPMG deal maker lists</a> | A software glitch has exposed the key companies garnering the interest of big four advisory group KPMG’s deal makers and restructuring experts.</li>
+</ul>
+<h3>LinkedIn &#8211; June 2021</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/linkedin-denies-data-breach-with-700-million-records-566707" target="_blank" rel="noopener">LinkedIn denies data breach with 700 million records</a> | Personal information on members found for sale</li>
+<li><a href="https://channellife.com.au/story/linkedin-data-from-700-million-users-for-sale-on-hacking-forum" target="_blank" rel="noopener">LinkedIn data from 700 million users for sale on hacking forum</a></li>
+<li><a href="https://www.laptopmag.com/au/news/linkedin-hacked-again-personal-info-of-756-million-users-leaked" target="_blank" rel="noopener">LinkedIn hacked again — personal info of 756 million users leaked</a></li>
+</ul>
+<h3>Carnival Cruises &#8211; June 2021</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/cruise-operator-carnival-discloses-personal-data-breach-566100" target="_blank" rel="noopener">Cruise operator Carnival discloses personal data breach</a></li>
+</ul>
+<h3>Uniting Communities &#8211; June 2021</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2021-06-16/uniting-communities-investigating-cyber-incident-in-sa/100220748" target="_blank" rel="noopener">Uniting Communities investigating possible data breach amid &#8216;cyber incident&#8217;</a></li>
+</ul>
+<h3>Ray White &#8211; June 2021</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2021-06-09/ex-ray-white-agent-ant-manton-investigation-over-database/100199968" target="_blank" rel="noopener">Former Ray White real estate agent Ant Manton investigated for alleged data theft</a></li>
+</ul>
+<h3>NSW Health &#8211; June 2021</h3>
+<ul>
+<li><a href="https://www.afr.com/technology/medical-information-leaked-in-nsw-health-hack-20210608-p57z7k" target="_blank" rel="noopener">Medical information leaked in NSW Health hack</a></li>
+<li><a href="https://www.itnews.com.au/news/nsw-health-admits-personal-data-accessed-in-accellion-breach-565551" target="_blank" rel="noopener">NSW Health admits personal data accessed in Accellion breach</a></li>
+</ul>
+<h3>Air India &#8211; May 2021</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/sita-hack-may-have-been-worse-than-thought-following-air-india-breach" target="_blank" rel="noopener">SITA hack may have been worse than thought following Air India breach</a></li>
+<li><a href="https://au.news.yahoo.com/air-india-data-breach-163950054.html" target="_blank" rel="noopener">Air India breach compromised data for 4.5 million passengers</a></li>
+<li><a href="https://au.news.yahoo.com/air-india-says-data-4-035602216.html" target="_blank" rel="noopener">Air India says data on 4.5 million passengers stolen</a></li>
+</ul>
+<h3>TPG &#8211; May 2021</h3>
+<ul>
+<li><a href="https://www.afr.com/technology/tpg-confirms-data-on-dark-web-belongs-to-its-customer-20210524-p57uni" target="_blank" rel="noopener">TPG confirms data on dark web belongs to its customer</a></li>
+</ul>
+<h3>NAB 2019 &#8211; April 2021</h3>
+<ul>
+<li><a href="https://ia.acs.org.au/article/2021/nab-fired-it-worker-over-data-breach.html" target="_blank" rel="noopener">NAB fired IT worker over data breach</a> | Uploaded data of 13,000 customers to third-party servers</li>
+<li><a href="https://www.afr.com/companies/financial-services/nab-repays-customers-688k-for-data-breach-20210421-p57l1q" target="_blank" rel="noopener">NAB repays customers $687k for data breach</a></li>
+</ul>
+<h3>UnitingCare Queensland &#8211; April 2021</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/unitingcare-queensland-hit-by-cyber-attack-563812" target="_blank" rel="noopener">UnitingCare Queensland hit by cyber attack</a> | Ransomware infection reportedly impacts hospitals and aged care facilities</li>
+</ul>
+<h3>Swinburne University &#8211; April 2021</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/swinburne-university-data-breach-exposes-details-of-5000-staff-students-563456" target="_blank" rel="noopener">Swinburne University data breach exposes details of 5000 staff, students</a> | Seven years of event registrations found online.</li>
+<li><a href="https://www.arnnet.com.au/article/687687/details-of-over-5000-people-exposed-in-swinburne-uni-breach/" target="_blank" rel="noopener">Details of over 5,000 people exposed in Swinburne uni breach</a></li>
+</ul>
+<h3>Ubiquiti &#8211; April 2021</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/iot-firm-ubiquiti-hit-by-catastrophic-data-breach" target="_blank" rel="noopener">IoT firm Ubiquiti hit by &#8216;catastrophic&#8217; data breach | Intruders allegedly gained administrative access to Ubiquity’s servers</a></li>
+<li><a href="https://www.arnnet.com.au/article/687411/no-customer-info-accessed-ubiquiti-breach/" target="_blank" rel="noopener">No customer info accessed&#8217; in Ubiquiti breach</a></li>
+</ul>
+<h3>Shanghai Security Database &#8211; April 2021</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2021-04-01/shanghai-files-shed-light-on-china-surveillance-state/100040896" target="_blank" rel="noopener">Australians flagged in Shanghai security files which shed light on China&#8217;s surveillance state and monitoring of Uyghurs</a></li>
+</ul>
+<h3>Facebook &#8211; April 2021</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/massive-facebook-data-breach-leaks-info-on-millions-of-users" target="_blank" rel="noopener">Massive Facebook data breach leaks info on millions of users</a> | Data of over 533 million Facebook users leaked online</li>
+<li><a href="https://www.techradar.com/au/news/facebook-data-breach-how-to-check-if-your-details-were-leaked" target="_blank" rel="noopener">Facebook data breach: how to check if your details were leaked</a></li>
+<li><a href="https://www.news.com.au/technology/online/hacking/facebook-data-breach-exposes-personal-information-of-533-million-users-including-its-founder-mark-zuckerberg/news-story/e4c3573112d2e6774551991a9b0cf259" target="_blank" rel="noopener">Facebook data breach exposes personal information of 533 million users, including its founder Mark Zuckerberg</a></li>
+<li><a href="https://www.news.com.au/technology/online/hacking/facebook-data-leak-details-of-533-million-users-found-on-site-for-hackers/news-story/c2dd41f93d291ed1fa4187d43d27b15b" target="_blank" rel="noopener">Facebook data leak: Details of 533 million users found on site for hackers</a></li>
+<li><a href="https://www.lifehacker.com.au/2021/04/what-you-can-do-about-that-messy-facebook-data-breach/" target="_blank" rel="noopener">What You Can Do About That Messy Facebook Data Breach</a></li>
+<li><a href="https://7news.com.au/technology/how-to-check-if-your-facebook-account-was-one-of-the-half-billion-that-were-breached-c-2523893" target="_blank" rel="noopener">How to check if your Facebook account was one of the half billion that were breached</a></li>
+</ul>
+<h3>Eastern Health &#8211; March 2021</h3>
+<ul>
+<li><a href="https://ia.acs.org.au/article/2021/victorian-hospitals-hit-by-cyber-attack.html" target="_blank" rel="noopener">Victorian hospitals hit by cyber attack</a> | Forces postponement of non-urgent elective surgeries</li>
+</ul>
+<h3>WA Parliamentary Email Network &#8211; March 2021</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2021-03-17/wa-parliament-targeted-cyber-attack/13253926" target="_blank" rel="noopener">China suspected of cyber attack on Western Australia&#8217;s Parliament during state election</a></li>
+</ul>
+<h3>Microsoft &#8211; March 2021</h3>
+<ul>
+<li><a href="https://www.9news.com.au/technology/australian-corporations-hit-by-massive-microsoft-server-hack/de83dbbd-1296-451a-abd7-537a71c51e99" target="_blank" rel="noopener">Australian corporations hit by massive Microsoft Server hack</a></li>
+<li><a href="https://www.itnews.com.au/news/eset-says-at-least-10-hacking-groups-using-microsoft-software-flaw-562002" target="_blank" rel="noopener">ESET says at least 10 hacking groups using Microsoft software flaw</a></li>
+</ul>
+<h3>SITA &#8211; March 2021</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/sita-data-breach-affects-millions-of-airline-passengers" target="_blank" rel="noopener">SITA data breach affects millions of airline passengers</a> | Passenger data from multiple airlines has been acquired by hackers</li>
+</ul>
+<h3>Minister&#8217;s Private Email Accounts &#8211; February 2021</h3>
+<ul>
+<li><a href="https://www.brisbanetimes.com.au/national/queensland/security-risks-ministers-private-email-accounts-in-historical-data-breach-20210226-p57698.html" target="_blank" rel="noopener">‘Security risks’: Ministers’ private email accounts in historical data breach</a></li>
+</ul>
+<h3>Transport for NSW &#8211; February 2021</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/transport-for-nsw-data-stolen-in-accellion-breach-561396" target="_blank" rel="noopener">Transport for NSW data stolen in Accellion breach</a> | Agency probes customer impact</li>
+</ul>
+<h3>SingTel &#8211; February 2021</h3>
+<ul>
+<li><a href="https://itmunch.com/singtel-assesses-potential-accellion-data-breach/" target="_blank" rel="noopener">Optus parent organization SingTel assesses potential Accellion data breach</a></li>
+</ul>
+<h3>Accellion &#8211; February 2021</h3>
+<ul>
+<li><a href="https://www.gizmodo.com.au/2021/02/the-accellion-data-breach-seems-to-be-getting-bigger/" target="_blank" rel="noopener">The Accellion Data Breach Seems to Be Getting Bigger</a></li>
+<li><a href="https://www.technologydecisions.com.au/content/security/news/australian-orgs-exposed-to-accellion-vulnerability-702149002" target="_blank" rel="noopener">Australian orgs exposed to Accellion vulnerability</a></li>
+</ul>
+<h3>NT Health &#8211; February 2021</h3>
+<ul>
+<li><a href="https://www.ntnews.com.au/subscribe/news/1/?sourceCode=NTWEB_WRE170_a_GGL&amp;dest=https%3A%2F%2Fwww.ntnews.com.au%2Fnews%2Fpolitics%2Fnt-health-unintentionally-leaks-1000s-of-emails-in-data-breach-involving-covid19-check-in-app%2Fnews-story%2F32549b54d0f12d685e1e574cf70d8a60&amp;memtype=anonymous&amp;mode=premium&amp;nk=40c3cb776d05971ade56d9472e64fc93-1613953781" target="_blank" rel="noopener">NT Health Leaks Thousands of Emails in Data Breach</a></li>
+</ul>
+<h3>QIMR Berghofer Medical Research Institute &#8211; February 2021</h3>
+<ul>
+<li><a href="https://www.busseltonmail.com.au/story/7122947/qld-research-institute-suffers-data-breach/?cs=9676" target="_blank" rel="noopener">Qld research institute suffers data breach</a></li>
+</ul>
+<h3>Service NSW &#8211; 2020 Update</h3>
+<ul>
+<li><a href="https://ia.acs.org.au/article/2021/20-000-people-still-unaware-of-service-nsw-breach.html" target="_blank" rel="noopener">20,000 people still unaware of Service NSW breach</a> | Affected residents don’t know their data was stolen last year</li>
+<li><a href="https://www.themandarin.com.au/148904-service-nsw-struggling-to-contact-thousands-of-cyber-attack-victims/" target="_blank" rel="noopener">Service NSW struggling to contact thousands of cyber attack victims</a></li>
+</ul>
+<h3>Oxfam &#8211; February 2021</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/oxfam-australia-investigates-suspected-data-breach-560690" target="_blank" rel="noopener">Oxfam Australia investigates suspected data breach</a> | Tries to work out what data was accessed</li>
+</ul>
+<h3>ASIC &#8211; January 2021</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/asic-joins-reserve-bank-nz-as-victim-of-accellion-hack-560170" target="_blank" rel="noopener">ASIC joins Reserve Bank NZ as victim of Accellion hack</a> | Used server to transfer files on credit licence applications</li>
+<li><a href="https://7news.com.au/business/asic-server-hit-by-cyber-security-breach-c-2027991" target="_blank" rel="noopener">ASIC server hit by cyber security breach</a></li>
+</ul>
+<h3>Tasmanian Ambulance &#8211; January 2021</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2021-01-09/tasmanian-ambulance-data-breach-technology-overhaul-needed/13044780" target="_blank" rel="noopener">Cybersecurity expert calls for replacement technology following Tasmanian ambulance patient data leak</a></li>
+<li><a href="https://www.outinperth.com/tasmanian-data-leak-reveals-ambulance-patients-hiv-status/" target="_blank" rel="noopener">Tasmanian data leak reveals HIV status of ambulance patients</a></li>
+<li><a href="https://www.skynews.com.au/details/_6221566296001" target="_blank" rel="noopener">Mass hack incident exposes Tasmanian patient&#8217;s medical data on public website</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></div><div id="twenty" class="wpb_row vc_row-fluid standard-section section  section-no-parallax linear-regray stretch   " data-speed="1" style="background-color: #231f20; padding-top: 60px; padding-bottom: 40px; "><div class="col span_12 color-dark left">
+<div class="vc_col-sm-12 wpb_column column_container col no-padding color-dark" style="" data-animation="" data-delay="">
+<div class="wpb_wrapper">
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="spacer" style="height: 40px;"></div><h3 class="headline font-inherit fontsize-xl fontweight-700 lh-12 align-left transform-uppercase " style="margin: 0 0 10px 0; color: #ffffff;">The 2020</h3><h3 class="headline font-inherit fontsize-xxxl fontweight-700 lh-12 align-left transform-uppercase redtext" style="margin: 0 0 40px 0; color: #ffffff;"><span class="pinks">Data Breach</span><br />
+Notifications in Australia</h3></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="single_image wpb_content_element align-center    " data-animation="none" data-delay="0"><picture class="attachment-full sp-no-webp"><source srcset="https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3.webp 736w,https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3-300x199.webp 300w" sizes="(max-width: 736px) 100vw, 736px" type="image/webp"><source srcset="https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3.png 736w, https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3-300x199.png 300w" sizes="(max-width: 736px) 100vw, 736px" type="image/png"><img src="https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3.png?x40199" class="attachment-full sp-no-webp" loading="lazy" alt="" height="488" width="736" srcset="https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3.png 736w, https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3-300x199.png 300w" sizes="(max-width: 736px) 100vw, 736px"></picture></div></div></div></div></div>
+</div>
+</div>
+</div></div><div class="wpb_row vc_row-fluid standard-section section  section-no-parallax  stretch   " data-speed="1" style="padding-top: 60px; padding-bottom: 60px; "><div class="col span_12 color-dark left">
+<div class="vc_col-sm-12 wpb_column column_container col no-padding color-dark" style="" data-animation="" data-delay="">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h3>OAIC &#8211; 2020</h3>
+<ul>
+<li><a href="https://www.oaic.gov.au/assets/privacy/notifiable-data-breaches-scheme/statistics/Notifiable-Data-Breaches-Report-July-Dec-2020.pdf" target="_blank" rel="noopener">Notifiable Data Breaches Report 01/07/20 &#8211; 31/12/20</a></li>
+<li><a href="https://www.itnews.com.au/news/australian-govt-entity-hit-by-brute-force-attack-560343" target="_blank" rel="noopener">Australian govt entity hit by brute-force attack</a> | Agencies rack up reportable data breaches in back half of 2020.</li>
+</ul>
+<h3>Nintendo Switch &#8211; December 2020</h3>
+<ul>
+<li><a href="https://www.t3.com/au/news/nintendo-switch-breach-dangerous-data-leak-couldve-killed-switch" target="_blank" rel="noopener">Nintendo Switch breach: dangerous data leak could&#8217;ve killed Switch</a> &#8211; Massive data leak shows early Switch designs and leaked keys that could&#8217;ve toppled console</li>
+</ul>
+<h3>Ledger &#8211; December 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/crypto-wallet-data-breach-compromises-hundreds-of-thousands-of-users" target="_blank" rel="noopener">Crypto wallet data breach compromises hundreds of thousands of users | Names and mailing addresses were leaked online</a></li>
+</ul>
+<h3>Spotify &#8211; December 2020</h3>
+<ul>
+<li><a href="https://au.finance.yahoo.com/news/spotify-resets-user-passwords-security-184311591.html" target="_blank" rel="noopener noreferrer">Spotify resets passwords after a security bug exposed users&#8217; private account information</a></li>
+</ul>
+<h3>FireEye &#8211; December 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/fireeye-discloses-breach-theft-of-red-team-tools-558739" target="_blank" rel="noopener noreferrer">FireEye discloses breach, theft of red team tools | Releases &#8216;hundreds&#8217; of countermeasures</a></li>
+</ul>
+<h3>NSW State Transit Authority &#8211; December 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/ransomware-outed-as-cause-of-state-transit-authority-outage-558982" target="_blank" rel="noopener noreferrer">Ransomware outed as cause of State Transit Authority outage | Audit confirms June cyber incident took place</a></li>
+</ul>
+<h3>Flight Centre &#8211; 2017, reported December 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/flight-centre-leaks-customer-data-in-an-incredibly-stupid-way" target="_blank" rel="noopener noreferrer">Flight Centre leaks customer data in an incredibly stupid way</a></li>
+<li><a href="https://www.travelweekly.com.au/article/investigation-finds-travel-agent-design-jam-the-cause-of-big-flight-centre-data-breach/" target="_blank" rel="noopener noreferrer">An investigation into a major data breach involving Flight Centre Travel Group (FCTG) more than three years ago has found that the company broke a number of Australian Privacy Principles.</a></li>
+<li><a href="https://www.itnews.com.au/news/flight-centre-hackathon-behind-2017-breach-exposed-6918-customers-data-558644" target="_blank" rel="noopener noreferrer">Flight Centre hackathon behind 2017 breach, exposed 6918 customers&#8217; data | Full post-mortem revealed for the first time</a></li>
+</ul>
+<h3>BTC Markets &#8211; December 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/btc-markets-exposes-customer-names-emails-in-botched-blast-send-558443" target="_blank" rel="noopener noreferrer">BTC Markets exposes customer names, emails in botched blast send | Australia&#8217;s largest cryptocurrency exchange apologises for error</a></li>
+</ul>
+<h3>Levitas Capital &#8211; November 2020</h3>
+<ul>
+<li><a href="https://www.afr.com/companies/financial-services/hacked-sydney-hedge-fund-part-of-170m-cyber-crime-spree-20201123-p56h24" target="_blank" rel="noopener noreferrer">Hacked Sydney hedge fund part of $170m cyber crime spree</a></li>
+</ul>
+<h3>Law in Order &#8211; November 2020</h3>
+<ul>
+<li><a href="https://www.afr.com/companies/professional-services/legal-services-firm-hit-by-ransomware-attack-20201124-p56hht" target="_blank" rel="noopener noreferrer">Hackers threaten to publish data from attack on legal services firm</a></li>
+</ul>
+<h3>Sophos &#8211; November 2020</h3>
+<ul>
+<li><a href="https://www.itwire.com/open-sauce/sophos-tight-lipped-about-data-breach,-no-lessons-learnt-from-wannacry-bungle.html" target="_blank" rel="noopener noreferrer">Sophos tight-lipped about data breach, no lessons learnt from WannaCry bungle</a></li>
+<li><a href="https://www.techradar.com/au/news/sophos-warns-customers-it-was-hit-by-data-breach" target="_blank" rel="noopener noreferrer">Sophos warns customers it was hit by data breach | Data breach has exposed sensitive information of Sophos users</a></li>
+</ul>
+<h3>Wildworks &#8211; November 2020</h3>
+<ul>
+<li><a href="https://au.news.yahoo.com/animal-jam-hacked-data-stolen-170042534.html" target="_blank" rel="noopener noreferrer">Animal Jam was hacked, and data stolen; here&#8217;s what parents need to know</a></li>
+</ul>
+<h3>Capcom &#8211; November 2020</h3>
+<ul>
+<li><a href="https://au.finance.yahoo.com/news/resident-evil-game-maker-capcom-145144817.html?guccounter=1" target="_blank" rel="noopener noreferrer">&#8216;Resident Evil&#8217; game maker Capcom confirms data breach after ransomware attack</a></li>
+<li><a href="https://www.gamesradar.com/au/resident-evil-8-launch-window-leaks-after-capcom-ransomware-attack/" target="_blank" rel="noopener noreferrer">Dragon&#8217;s Dogma 2, Street Fighter 6 reportedly leaked in Capcom data breach</a></li>
+</ul>
+<h3>Prestige Software &#8211; November 2020</h3>
+<ul>
+<li><a href="https://7news.com.au/technology/bookingcom-expedia-group-hotelscom-customers-in-suspected-data-breach-c-1551801" target="_blank" rel="noopener noreferrer">Booking.com, Expedia Group, Hotels.com customers in suspected data breach</a></li>
+</ul>
+<h3>Blackbaud &#8211; November 2020</h3>
+<ul>
+<li><a href="https://www.itwire.com/security/oaic-confirms-inquires-made-with-cloud-software-firm-that-was-breached.html" target="_blank" rel="noopener noreferrer">OAIC confirms inquiries made with cloud software firm that was breached</a></li>
+</ul>
+<h3>Nitro PDF &#8211; October 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/nitro-pdf-suffers-massive-data-breach-exposing-microsoft-google-amazon-documents" target="_blank" rel="noopener noreferrer">Nitro PDF suffers massive data breach, exposing Microsoft, Google, Amazon documents</a></li>
+<li><a href="https://www.itwire.com/security/nitro-again-insists-data-breach-isolated-as-incident-gets-more-coverage.html" target="_blank" rel="noopener noreferrer">Nitro again insists data breach &#8216;isolated&#8217; as incident gets more coverage</a></li>
+</ul>
+<h3>Spotless &#8211; October 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/spotless-hit-by-ransomware-attack-554554?" target="_blank" rel="noopener noreferrer">Spotless hit by ransomware attack</a> | Exclusive: Confirms a &#8216;number&#8217; of servers &#8216;accessed&#8217;</li>
+</ul>
+<h3>DFAT &#8211; September 2020</h3>
+<ul>
+<li><a href="https://www.9news.com.au/national/coronavirus-australia-dfat-revealed-private-emails-people-stuck-overseas-government-apology-covid19/e60b9b68-5aac-4efd-b78c-e8ecbaadb93d" target="_blank" rel="noopener noreferrer">Private emails of Australians stranded countries unintentionally revealed by DFAT</a></li>
+</ul>
+<h3>CloudBees CodeShip &#8211; September 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/devops-solutions-provider-cloudbees-discloses-data-breach-554150" target="_blank" rel="noopener noreferrer">DevOps solutions provider CloudBees discloses data breach</a> | Malicious actor accessed failover database for a year.</li>
+</ul>
+<h3>Scouts Victoria &#8211; September 2020</h3>
+<ul>
+<li><a href="https://www.weeklytimesnow.com.au/breaking-news/potential-personal-data-breach-of-about-900-people-after-scouts-victoria-hacked/news-story/800d88d3895fc53f72738e12b33428ef" target="_blank" rel="noopener noreferrer">Potential personal data breach of about 900 people after Scouts Victoria hacked</a></li>
+<li><a href="https://www.itnews.com.au/news/scouts-victoria-data-breach-potentially-nets-900-peoples-personal-details-553905" target="_blank" rel="noopener noreferrer">Scouts Victoria data breach potentially nets 900 people&#8217;s personal details | Including bank details, birth certificates and court orders</a></li>
+</ul>
+<h3>Activision &#8211; September 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/huge-cyberattack-puts-thousands-of-cod-player-accounts-at-risk-heres-what-you-need-to-know" target="_blank" rel="noopener noreferrer">Possible Activision hack puts thousands of COD player accounts at risk &#8211; here&#8217;s all you need to know</a></li>
+</ul>
+<h3>University of Tasmania &#8211; September 2020</h3>
+<ul>
+<li><a href="https://www.9news.com.au/national/university-of-tasmania-personal-identity-data-breach-not-malicious-management-claim/9b4f4b76-bbe4-4f0f-be5f-c51d30bfd9b7" target="_blank" rel="noopener noreferrer">IT bungle leads to mass student data breach</a></li>
+<li><a href="https://www.abc.net.au/news/2020-09-21/data-breach-at-university-of-tasmania/12685318" target="_blank" rel="noopener noreferrer">Data breach at University of Tasmania affects 20,000 students</a></li>
+<li><a href="https://www.examiner.com.au/story/6934392/utas-data-breach-affects-19900-students/" target="_blank" rel="noopener noreferrer">UTAS contacts 19,900 students caught up in data breach</a></li>
+<li><a href="https://ia.acs.org.au/article/2020/university-of-tasmania-leaks-data-of-19-900-students.html" target="_blank" rel="noopener noreferrer">University of Tasmania leaks data of 19,900 students</a> | Sharepoint site gave access to anyone with a UTAS email.</li>
+</ul>
+<h3>Royal Queensland Yacht Squadron &#8211; September 2020</h3>
+<ul>
+<li><a href="https://kirbyidau.com/2020/09/11/incident-royal-queensland-yacht-squadron-to-be-questioned-by-office-of-australian-information-commissioner-after-data-breach-the-courier-mail/" target="_blank" rel="noopener noreferrer">Royal Queensland Yacht Squadron To Be Questioned By Office Of Australian Information Commissioner After Data Breach</a></li>
+</ul>
+<h3>Zhenhua Data &#8211; September 2020</h3>
+<ul>
+<li><a href="https://www.pedestrian.tv/news/chinese-data-breach-natalie-imbruglia/" target="_blank" rel="noopener noreferrer">A Huge Chinese Data Breach Has Exposed Info Of 35,000 Aussies Including… Natalie Imbruglia?</a></li>
+<li><a href="https://www.abc.net.au/news/2020-09-15/chinese-database-zhenhua-interest-australia-space-science-sector/12662996" target="_blank" rel="noopener noreferrer">Leaked Chinese database show company&#8217;s interest in Australia&#8217;s space and science sector</a></li>
+<li><a href="https://www.smartcompany.com.au/technology/cyber-security/china-zhenhua-mass-surveillance-australians/" target="_blank" rel="noopener noreferrer">Australian business leaders caught up in China’s mass surveillance: Here’s what it means</a></li>
+</ul>
+<h3>Telmate &#8211; September 2020</h3>
+<ul>
+<li><a href="https://au.news.yahoo.com/telmate-millions-inmate-data-exposed-041456225.html" target="_blank" rel="noopener noreferrer">Telmate data breach leaked personal info for millions of prisoners</a></li>
+</ul>
+<h3>K7Maths &#8211; September 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/large-australian-education-data-leak-traced-to-third-party-service-552781" target="_blank" rel="noopener noreferrer">Large Australian education data leak traced to third-party service</a> &#8211; AusCERT rules out government ownership</li>
+</ul>
+<h3>Transport for NSW &#8211; August 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/over-54000-scanned-nsw-drivers-licenses-found-in-open-cloud-storage-552544" target="_blank" rel="noopener noreferrer">Over 54,000 scanned NSW driver&#8217;s licences found in open cloud storage</a> &#8211; TfNSW investigates mystery data leak on AWS S3</li>
+<li><a href="https://www.drive.com.au/news/more-than-50-000-nsw-driver-s-licences-exposed-in-mystery-data-leak-124150" target="_blank" rel="noopener noreferrer">More than 50,000 NSW driver&#8217;s licences exposed in mystery data leak</a> &#8211; Drive understands those affected have not been contacted yet</li>
+<li><a href="https://www.caradvice.com.au/878714/nsw-drivers-licences-data-leak/" target="_blank" rel="noopener noreferrer">More than 50,000 NSW driver&#8217;s licences exposed in mystery data leak</a> &#8211; It remains unclear where the image files came from, but experts say a fleet or toll operator could be to blame.</li>
+<li><a href="https://www.itnews.com.au/news/service-nsw-still-waiting-to-notify-on-data-breach-four-months-on-552706" target="_blank" rel="noopener noreferrer">Service NSW still waiting to notify on data breach after four months</a></li>
+<li><a href="https://www.abc.net.au/news/2020-09-02/sydney-man-finds-own-driver-licence-in-nsw-data-breach/12616606" target="_blank" rel="noopener noreferrer">NSW driver&#8217;s licence data breach left Sydney health worker &#8216;sickened&#8217;</a></li>
+<li><a href="https://www.abc.net.au/radio/sydney/programs/pm/how-bob-the-ukrainian-uncovered-massive-australian-data-breach/12618722" target="_blank" rel="noopener noreferrer">How Bob the Ukrainian security consultant uncovered massive Australian data breach</a></li>
+<li><a href="https://www.echo.net.au/2020/09/alp-calls-for-government-action-after-data-breach-affecting-50000-nsw-drivers/" target="_blank" rel="noopener noreferrer">ALP calls for action after data breach affects 50,000 NSW drivers</a></li>
+<li><a href="https://www.abc.net.au/news/2020-09-01/nsw-drivers-licence-data-breach-under-investigation/12611918" target="_blank" rel="noopener noreferrer">Data breach exposes tens of thousands of NSW driver’s licences online</a></li>
+</ul>
+<h3>Freepik &#8211; August 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/popular-stock-image-website-freepik-suffers-massive-data-breach" target="_blank" rel="noopener noreferrer">Popular stock image website Freepik suffers massive data breach</a></li>
+</ul>
+<h3>Tik Tok, Instagram &amp; YouTube &#8211; August 2020</h3>
+<ul>
+<li><a href="https://www.lifehacker.com.au/2020/08/how-to-deal-with-this-tiktok-instagram-and-youtube-data-breach/" target="_blank" rel="noopener noreferrer">How to Deal With This TikTok, Instagram, and YouTube Data Breach</a></li>
+</ul>
+<h3>RI Advice Group &#8211; August 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/asic-sues-financial-services-company-for-repeated-hacks-552124" target="_blank" rel="noopener noreferrer">ASIC sues financial services company for repeated hacks | Hacker spent 155 hours logged in without detection</a></li>
+<li><a href="https://www.businessnewsaus.com.au/articles/asic-comes-for-ioof-subsidiary-for-inadequate-cyber-security-infrastructure.html" target="_blank" rel="noopener noreferrer">ASIC comes for IOOF subsidiary over inadequate cyber security infrastructure</a></li>
+<li><a href="https://ia.acs.org.au/article/2020/company-sued-over-poor-cyber-security.html" target="_blank" rel="noopener noreferrer">Company sued over poor cyber security &#8211; Passwords found in text files on server desktop</a></li>
+</ul>
+<h3>Canon &#8211; August 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/canon-data-leaked-online-after-company-refuses-to-negotiate-with-ransomware-attackers" target="_blank" rel="noopener noreferrer">Canon data leaked online after company refuses to negotiate with ransomware attackers</a></li>
+</ul>
+<h3>ACT Public Schools &#8211; August 2020</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2020-08-14/canberra-school-students-email-explicit-content-network/12561130" target="_blank" rel="noopener noreferrer">Canberra students gained access to school network to send graphic content to children across ACT</a></li>
+</ul>
+<h3>Visa Europe Ltd &#8211; August 2020</h3>
+<ul>
+<li><a href="https://au.finance.yahoo.com/news/isignthis-ltd-asx-isx-visa-202100430.html" target="_blank" rel="noopener noreferrer">iSignthis Ltd (ASX:ISX) Visa Europe Ltd -Breach of Personal Data</a></li>
+</ul>
+<h3>Carnival Corporation &#8211; August 2020</h3>
+<ul>
+<li><a href="https://www.travelweekly.com.au/article/cruise-giant-warns-passenger-data-leak-cyber-attack/" target="_blank" rel="noopener noreferrer">Carnival Corporation has been hit by a ransomware attack on one of its brand&#8217;s IT systems</a></li>
+</ul>
+<h3>Intel &#8211; August 2020</h3>
+<ul>
+<li><a href="https://micky.com.au/intel-investigates-source-code-dump-of-proprietary-data/" target="_blank" rel="noopener noreferrer">Intel investigates source code dump of proprietary data</a> &#8211; Intel is investigating the recent leak that dumped more than 20GB of proprietary data into the public domain</li>
+</ul>
+<h3>Australian Universities &#8211; August 2020</h3>
+<ul>
+<li><a href="https://www.sbs.com.au/news/australian-universities-investigating-deeply-concerning-hack-of-controversial-exam-software" target="_blank" rel="noopener noreferrer">Investigating &#8216;deeply concerning&#8217; hack of controversial exam software</a> &#8211; Personal records of 444,000 ProctorU users have reportedly been obtained in a hack and leaked online in hacker forums</li>
+<li><a href="https://www.smh.com.au/national/hackers-hit-university-online-exam-tool-20200806-p55j6h.html" target="_blank" rel="noopener noreferrer">Hackers hit university online exam tool</a></li>
+<li><a href="https://www.itnews.com.au/news/australian-universities-investigate-online-exam-tool-data-breach-551373" target="_blank" rel="noopener noreferrer">Australian universities investigate online exam tool data breach</a></li>
+</ul>
+<h3>Instacart &#8211; July 2020</h3>
+<ul>
+<li><a href="https://www.businessinsider.com.au/instacart-data-breach-denied-information-sold-on-dark-web-2020-7" target="_blank" rel="noopener noreferrer">Instacart user data is reportedly being sold online, but the company denies there was a breach</a></li>
+</ul>
+<h3>Garmin &#8211; July 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/garmin-goes-down-after-suspected-ransomware-attack-550841" target="_blank" rel="noopener noreferrer">Garmin goes down after suspected ransomware attack | Production halt in Taiwan, leaked internal email suggests</a></li>
+</ul>
+<h3>City of Darwin &#8211; July 2020</h3>
+<ul>
+<li><a href="https://www.facebook.com/permalink.php?id=361389970597&amp;story_fbid=10157188280090598" target="_blank" rel="noopener noreferrer">The email addresses of thousands of Territorians have been &#8216;accidentally&#8217;  leaked by the City of Darwin ahead of the next round of the MyDarwin voucher scheme</a></li>
+</ul>
+<h3>WA Department of Health &#8211; July 2020</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2020-07-20/wa-health-department-investigates-confidential-data-breach/12475310" target="_blank" rel="noopener noreferrer">WA Department of Health data breach sees confidential patient information published online</a></li>
+<li><a href="https://www.itnews.com.au/news/wa-health-traces-data-leak-to-third-party-pager-service-550679" target="_blank" rel="noopener noreferrer">WA Health traces data leak to third-party pager service</a></li>
+<li><a href="https://www.9news.com.au/videos/coronavirus-teenager-behind-massive-wa-data-breach/ckcvrxkjv000b0gmwgzhqs7er" target="_blank" rel="noopener noreferrer">Coronavirus: Teenager allegedly behind massive WA data breach</a></li>
+<li><a href="https://www.9news.com.au/national/coronavirus-western-australia-wa-data-breach-minor-allegedly-involved-site-shut-down/f80d8b89-47ba-42c4-9a1b-829eee7cb3e6" target="_blank" rel="noopener noreferrer">Minor allegedly involved in Western Australia&#8217;s medical record data breach</a></li>
+<li><a href="https://ww2.health.wa.gov.au/Media-releases/2020/Clarification-of-reported-data-breach" target="_blank" rel="noopener noreferrer">Clarification of reported data breach</a></li>
+</ul>
+<h3>VPN &#8211; July 2020</h3>
+<ul>
+<li><a href="https://www.smh.com.au/national/data-breach-of-free-vpn-providers-exposes-details-of-millions-of-users-20200720-p55doq.html" target="_blank" rel="noopener noreferrer">Data breach of free VPN providers exposes details of millions of users</a></li>
+</ul>
+<h3>Fraudulent Cryptocurrency Scheme &#8211; June 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/over-82000-aussies-details-leaked-in-crypto-scam-549929?" target="_blank" rel="noopener noreferrer">Over 82,000 Aussies&#8217; details leaked in crypto scam | Victim&#8217;s details show up on the web</a></li>
+</ul>
+<h3>TikTok &#8211; June 2020</h3>
+<ul>
+<li><a href="https://sydneynews.sydney/sydney-entertainment/tiktok-secretly-spying-on-millions-of-iphone-users/8510/" target="_blank" rel="noopener noreferrer">TikTok Secretly Spying On Millions Of iPhone Users | A major TikTok security issue detected by Apple</a></li>
+</ul>
+<h3>Twitter &#8211; June 2020</h3>
+<ul>
+<li><a href="https://au.news.yahoo.com/twitter-apologises-business-data-breach-133846611.html" target="_blank" rel="noopener noreferrer">Twitter apologises for business data breach</a></li>
+</ul>
+<h3>Google Chrome &#8211; June 2020</h3>
+<ul>
+<li><a href="https://www.channelnews.com.au/google-chrome-security-breach-33-million-downloads-of-spyware/" target="_blank" rel="noopener noreferrer">Google Chrome Security Breach: 33 Million Downloads Of Spyware</a></li>
+</ul>
+<h3>Australia &#8211; June 2020</h3>
+<ul>
+<li><a href="https://7news.com.au/politics/australian-government-targeted-in-cyber-breach--c-1111238" target="_blank" rel="noopener noreferrer">Australia targeted in &#8216;sophisticated&#8217; state-based cyber attack</a></li>
+<li><a href="https://www.abc.net.au/news/2020-06-19/cyber-attacks-likely-huawei-5g-ban-payback-from-china-spy-agency/12374374" target="_blank" rel="noopener noreferrer">&#8216;Cyber attacks&#8217; point to China&#8217;s spy agency, Ministry of State Security, as Huawei payback, say former Australian officials</a></li>
+<li><a href="https://ia.acs.org.au/article/2020/australia-under-cyber-attack.html" target="_blank" rel="noopener noreferrer">Australia under cyber attack</a></li>
+<li><a href="https://www.abc.net.au/news/2020-06-19/foreign-cyber-hack-targets-australian-government-and-business/12372470" target="_blank" rel="noopener noreferrer">China believed to be behind major cyber attack on Australian governments and businesses</a></li>
+</ul>
+<h3>Fisher &amp; Paykel &#8211; June 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/fisher--paykel-appliances-struck-by-nefilim-ransomware-549102" target="_blank" rel="noopener noreferrer">Fisher &amp; Paykel Appliances struck by Nefilim ransomware</a></li>
+</ul>
+<h3>Avon &#8211; June 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/avon-to-reboot-systems-hit-by-cyber-incident-549260" target="_blank" rel="noopener noreferrer">Avon to reboot systems hit by cyber incident</a></li>
+</ul>
+<h3>Lion &#8211; June 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/drinks-maker-lion-shuts-it-systems-after-cyber-incident-549049" target="_blank" rel="noopener noreferrer">Drinks maker Lion shuts IT systems after &#8216;cyber incident&#8217;</a></li>
+<li><a href="https://www.itnews.com.au/news/lion-accidentally-directs-milk-orders-to-sydney-it-security-consultancy-549086" target="_blank" rel="noopener noreferrer">Lion accidentally directs milk orders to Sydney IT security consultancy</a></li>
+<li><a href="https://www.itnews.com.au/news/lion-warns-of-beer-shortages-after-cyber-attack-549210" target="_blank" rel="noopener noreferrer">Lion warns of beer shortages after cyber attack</a></li>
+<li><a href="https://www.itnews.com.au/news/drinks-maker-lion-lost-cio-grainne-kearns-in-march-549279" target="_blank" rel="noopener noreferrer">Drinks maker Lion lost CIO Grainne Kearns in March</a></li>
+</ul>
+<h3>Noni B &#8211; June 2020</h3>
+<ul>
+<li><a href="https://www.afr.com/work-and-careers/workplace/whistleblower-accuses-noni-b-owner-of-mass-privacy-breach-20200615-p552nr" target="_blank" rel="noopener noreferrer">&#8216;Whistleblower&#8217; accuses Noni B owner of mass privacy breach</a></li>
+</ul>
+<h3>Babylon Health &#8211; June 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/babylon-health-data-breach-exposes-user-medical-records-to-strangers" target="_blank" rel="noopener noreferrer">Babylon Health data breach exposes user medical records to strangers | Bug was accidentally introduced via a recent update</a></li>
+<li><a href="https://au.news.yahoo.com/babylon-health-admits-software-error-141511932.html" target="_blank" rel="noopener noreferrer">Babylon Health admits &#8216;software error&#8217; led to patient data breach</a></li>
+<li><a href="https://au.news.yahoo.com/babylon-health-admits-gp-app-211422702.html" target="_blank" rel="noopener noreferrer">Babylon Health admits GP app suffered a data breach</a></li>
+<li><a href="https://www.businessinsider.com.au/babylon-health-app-accidentally-leaks-videos-peoples-appointments-2020-6" target="_blank" rel="noopener noreferrer">A telemedicine app accidentally leaked videos of people&#8217;s medical consultations to other patients</a></li>
+</ul>
+<h3>Joomla &#8211; June 2020</h3>
+<ul>
+<li><a href="https://www.crn.com.au/news/content-management-system-joomla-hit-by-data-breach-548844" target="_blank" rel="noopener noreferrer">Content management system Joomla hit by data breach</a></li>
+</ul>
+<h3>AFL Fan Website &#8211; May 2020</h3>
+<ul>
+<li><a href="https://www.9news.com.au/national/afl-fan-website-70m-data-leaks-expose-users-private-conversations-phone-numbers-emails/4b6f5c5c-7a76-4198-8e24-b90270faf2b3" target="_blank" rel="noopener noreferrer">70 million records exposed in data leak from AFL fan website, cyber researchers claim</a></li>
+</ul>
+<h3>IN SPORT &#8211; May 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/retailer-in-sports-head-office-hit-by-ransomware-548509" target="_blank" rel="noopener noreferrer">Retailer IN SPORT&#8217;s head office hit by ransomware &#8211; Rebuilds systems but loses some data</a></li>
+</ul>
+<h3>My Health Record &#8211; May 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/my-health-record-system-hit-by-hack-attempt-548282" target="_blank" rel="noopener noreferrer">My Health Record system hit by hack attempt</a></li>
+</ul>
+<h3>Service NSW &#8211; May 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/service-nsw-hit-by-email-compromise-attack-548134?" target="_blank" rel="noopener noreferrer">Service NSW hit by email compromise attack | Agency tries to work out what they accessed</a></li>
+</ul>
+<h3>BlueScope Steel &#8211; May 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/bluescope-it-disruption-feared-to-be-ransomware-attack-548127?" target="_blank" rel="noopener noreferrer">BlueScope IT &#8216;disruption&#8217; feared to be ransomware attack | Production systems impacted</a></li>
+</ul>
+<h3>GoDaddy &#8211; May 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/godaddy-confirms-it-suffered-a-data-breach" target="_blank" rel="noopener noreferrer">GoDaddy confirms it suffered a data breach | Incident happened in October 2019, GoDaddy tells users</a></li>
+</ul>
+<h3>WA Police Force &#8211; April 2020</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2020-04-23/ccc-report-reveals-auditor-accessed-wa-police-officer-details/12176944" target="_blank" rel="noopener noreferrer">Confidential details of entire WA Police Force accessed in &#8216;startling&#8217; audit breach, CCC finds</a></li>
+</ul>
+<h3>Optus &#8211; April 2020</h3>
+<ul>
+<li><a href="https://ausdroid.net/2020/04/28/optus-hit-with-40-million-class-action-after-alleged-data-breach-of-50000-customers-details/" target="_blank" rel="noopener noreferrer">Optus hit with $40 million class action after alleged data breach of 50,000 customers details</a></li>
+<li><a href="https://www.businessnewsaus.com.au/articles/optus-faces-class-action-over-major-data-breach.html">Optus faces class action over major data breach</a></li>
+<li><a href="https://www.brisbanetimes.com.au/national/optus-sued-over-alleged-customer-privacy-breaches-20200427-p54nim.html" target="_blank" rel="noopener noreferrer">Optus facing class action over alleged customer privacy breaches</a></li>
+</ul>
+<h3>Facebook &#8211; April 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/millions-of-facebook-profiles-for-sale-on-the-dark-web" target="_blank" rel="noopener noreferrer">Millions of Facebook profiles for sale on the Dark Web</a></li>
+</ul>
+<h3>Apple &#8211; April 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/flaw-in-iphone-ipads-may-have-allowed-hackers-to-steal-data-for-years-547081?" target="_blank" rel="noopener noreferrer">Flaw in iPhone, iPads may have allowed hackers to steal data for years | But Apple is planning to fix the flaw</a></li>
+</ul>
+<h3>Zoom &#8211; April 2020</h3>
+<ul>
+<li><a href="https://www.gizmodo.com.au/2020/04/zoom-password-hack/" target="_blank" rel="noopener noreferrer">500,000 Zoom Account Breaches Reminds Us Not To Be Sloppy With Passwords</a></li>
+<li><a href="https://www.watoday.com.au/technology/how-to-stay-safe-on-houseparty-and-zoom-20200408-p54i8z.html" target="_blank" rel="noopener noreferrer">How to stay safe on Houseparty and Zoom</a></li>
+<li><a href="https://www.hcamag.com/au/specialisation/hr-technology/intruder-alert-how-to-keep-zoom-meetings-secure/219594" target="_blank" rel="noopener noreferrer">Intruder alert! How to keep Zoom meetings secure</a></li>
+<li><a href="https://www.lifehacker.com.au/2020/04/how-to-protect-your-zoom-account-from-recent-data-breaches/" target="_blank" rel="noopener noreferrer">How To Protect Your Zoom Account From Recent Data Breaches</a></li>
+<li><a href="https://ia.acs.org.au/article/2020/zoom-brings-in-big-guns-to-fix-security-problems.html" target="_blank" rel="noopener noreferrer">Zoom brings in big guns to fix security problems | Paid users can avoid specific data centres</a></li>
+</ul>
+<h3>Marriott &#8211; April 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/marriott-discloses-second-data-breach-in-two-years-545871?eid=3&amp;edate=20200401&amp;utm_source=20200401_PM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Marriott discloses second data breach in two years</a></li>
+</ul>
+<h3>Federal Court &#8211; March 2020</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2020-03-31/federal-court-in-protection-visa-data-breach-published-names/12102536" target="_blank" rel="noopener noreferrer">Federal court data breach sees names of protection visa applicants made public</a></li>
+</ul>
+<h3>Houseparty &#8211; March 2020</h3>
+<ul>
+<li><a href="https://securitybrief.com.au/story/houseparty-denies-security-breach-as-users-accuse-app-of-hacking-accounts" target="_blank" rel="noopener noreferrer">Houseparty denies security breach as users accuse app of hacking accounts</a></li>
+</ul>
+<h3>Chubb &#8211; March 2020</h3>
+<ul>
+<li><a href="https://au.news.yahoo.com/cyber-insurer-chubb-says-data-193125951.html" target="_blank" rel="noopener noreferrer">Cyber insurer Chubb had data stolen in Maze ransomware attack</a></li>
+</ul>
+<h3>Norwegian Cruise Line &#8211; March 2020</h3>
+<ul>
+<li><a href="https://www.itwire.com/security/world-s-third-largest-cruise-line-norwegian-suffers-data-breach.html" target="_blank" rel="noopener noreferrer">World&#8217;s third largest cruise line Norwegian suffers data breach</a></li>
+</ul>
+<h3>Microsoft Teams and Zoom &#8211; March 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/phishers-quick-to-exploit-remote-working-apps-in-covid-19-lockdown-543649?eid=1&amp;edate=20200331&amp;utm_source=20200331_AM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Phishers quick to exploit remote working apps in COVID-19 lockdown</a></li>
+</ul>
+<h3>Henning Harders &#8211; March 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/another-aussie-logistics-company-falls-prey-to-ransomware-539578" target="_blank" rel="noopener noreferrer">Another Aussie logistics company falls prey to ransomware</a></li>
+</ul>
+<h3>Melbourne TAFE &#8211; March 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/melbourne-tafe-data-breach-exposes-55k-student-staff-files-539180?eid=3&amp;edate=20200311&amp;utm_source=20200311_PM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Melbourne TAFE data breach exposes 55k student, staff files &#8211; Sensitive financial, health data accessed</a></li>
+</ul>
+<h3>Australian Department of Defence &#8211; March 2020</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2020-03-04/australian-defence-military-database-shut-down-amid-hack-fears/12021742" target="_blank" rel="noopener noreferrer">Fears private details of Defence Force members compromised in database hack</a></li>
+<li><a href="https://www.itwire.com/security/defence-plays-down-report-of-likely-recruitment-database-breach.html" target="_blank" rel="noopener noreferrer">Defence plays down report of likely recruitment database breach</a></li>
+</ul>
+<h3>Nord VPN &#8211; March 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/this-top-vpn-suffered-a-major-security-flaw" target="_blank" rel="noopener noreferrer">Top VPN software had a major security flaw &#8211; Vulnerability discovered during HackerOne session</a></li>
+</ul>
+<h3>Alinta Energy &#8211; March 2020</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2020-03-02/alinta-energy-accused-of-putting-customers-information-at-risk/12006752" target="_blank" rel="noopener noreferrer">Alinta Energy accused of putting customers&#8217; sensitive information at risk</a></li>
+<li><a href="https://www.abc.net.au/radionational/programs/breakfast/alinta-energy-accused-of-endangering-privacy/12015496" target="_blank" rel="noopener noreferrer">Alinta Energy accused of endangering privacy of 1.1 million customers</a></li>
+</ul>
+<h3>Clearview AI &#8211; February 2020</h3>
+<ul>
+<li><a href="https://www.smartcompany.com.au/startupsmart/news/clearview-ai-data-breach/" target="_blank" rel="noopener noreferrer">Controversial facial recognition startup Clearview AI hit by massive client data breach</a></li>
+<li><a href="https://www.gizmodo.com.au/2020/02/australian-police-clearview-ai-facial-recognition/" target="_blank" rel="noopener noreferrer">Leaked Document Shows Australian Police Use Creepy Clearview AI Facial Recognition Software</a></li>
+</ul>
+<h3>Talman &#8211; February 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/australian-wool-sales-stopped-by-ransomware-attack-538657?eid=3&amp;edate=20200227&amp;utm_source=20200227_PM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Australian wool sales stopped by ransomware attack &#8211; Software maker Talman hit by attackers</a></li>
+</ul>
+<h3>Samsung &#8211; February 2020</h3>
+<ul>
+<li><a href="https://www.news.com.au/technology/gadgets/mobile-phones/samsung-mystery-notification-may-not-have-been-as-innocent-as-company-first-claimed/news-story/4fa64ee2069a4dd223ff1242853194a7" target="_blank" rel="noopener noreferrer">Mystery notification may not have been as innocent as company first claimed</a></li>
+</ul>
+<h3>MGM &#8211; February 2020</h3>
+<ul>
+<li><a href="https://au.news.yahoo.com/2020-02-20-mgm-data-breach-exposed-personal-details-of-10-6-million-hotel-g.html" target="_blank" rel="noopener noreferrer">MGM data breach exposed personal details of 10.6 million hotel guests</a> &#8211; If you&#8217;ve stayed at an MGM Resorts hotel, you may be among victims of the latest massive data breach.</li>
+<li><a href="https://www.crn.com.au/news/mgm-resorts-sued-over-data-breach-538470" target="_blank" rel="noopener noreferrer">MGM Resorts sued over data breach</a></li>
+<li><a href="https://www.channelnews.com.au/ces-attendees-data-hacked-mgm-resorts-compromised/" target="_blank" rel="noopener noreferrer">CES Attendees Data Hacked MGM Resorts Compromised</a></li>
+</ul>
+<h3>Slickwraps &#8211; February 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/slickwraps-hit-by-customer-data-breach" target="_blank" rel="noopener noreferrer">Slickwraps hit by customer data breach &#8211; Phone accessory firm ignored multiple warnings from security researcher</a></li>
+</ul>
+<h3>Smartwatch &#8211; February 2020</h3>
+<ul>
+<li><a href="https://thenewdaily.com.au/life/tech/2020/02/11/kids-smartwatch-apps-hacked/" target="_blank" rel="noopener noreferrer">Smartwatch apps let parents keep track of kids, but data breaches mean strangers can watch them</a></li>
+</ul>
+<h3>Toll &#8211; February 2020</h3>
+<ul>
+<li><a href="https://www.afr.com/technology/toll-held-to-ransom-as-cyber-attack-stalls-deliveries-20200204-p53xmc" target="_blank" rel="noopener noreferrer">Toll held to ransom as cyber attack stalls deliveries</a></li>
+<li><a href="https://www.itnews.com.au/news/toll-group-confirms-targeted-ransomware-attack-537494?eid=1&amp;edate=20200205&amp;utm_source=20200205_AM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Toll Group confirms &#8220;targeted&#8221; ransomware attack</a></li>
+<li><a href="https://www.itnews.com.au/news/toll-group-hit-by-new-variant-of-mailto-ransomware-537537?eid=65&amp;edate=20200205&amp;utm_source=20200205&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">Toll Group hit by &#8220;new variant&#8221; of Mailto ransomware</a></li>
+<li><a href="https://www.itnews.com.au/news/toll-group-tight-lipped-on-alleged-ransomware-attack-537437?eid=65&amp;edate=20200205&amp;utm_source=20200205&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">Toll Group tight-lipped on alleged ransomware attack</a></li>
+<li><a href="https://www.itnews.com.au/news/toll-group-shuts-it-systems-after-cyber-security-incident-537401?eid=65&amp;edate=20200205&amp;utm_source=20200205&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">Toll Group shuts IT systems after &#8216;cyber security incident&#8217;</a></li>
+<li><a href="https://www.itnews.com.au/news/acsc-gets-to-grips-with-mailto-threat-after-toll-group-infection-537598" target="_blank" rel="noopener noreferrer">ACSC gets to grips with Mailto threat after Toll Group infection &#8211; Releases hash of ransomware &#8220;from this incident&#8221;</a></li>
+</ul>
+<h3>Yarra Trams &#8211; February 2020</h3>
+<ul>
+<li><a href="https://www.brisbanetimes.com.au/national/victoria/yarra-trams-data-breach-commuters-email-addresses-exposed-20200203-p53xci.html" target="_blank" rel="noopener noreferrer">Yarra Trams data breach: Commuters&#8217; email addresses exposed</a></li>
+</ul>
+<h3>Perth Mint &#8211; January 2020</h3>
+<ul>
+<li><a href="https://www.watoday.com.au/national/western-australia/perth-mint-visitor-data-stolen-after-feedback-survey-company-hacked-20200131-p53woy.html" target="_blank" rel="noopener noreferrer">Perth Mint visitor data stolen after feedback survey company hacked</a></li>
+</ul>
+<h3>Microsoft &#8211; January 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/microsoft-customer-support-database-exposed-online" target="_blank" rel="noopener noreferrer">Microsoft customer support database exposed online</a></li>
+<li><a href="https://www.lifehacker.com.au/2020/01/how-to-protect-yourself-in-microsofts-recent-data-breach/" target="_blank" rel="noopener noreferrer">How To Protect Yourself In Microsoft&#8217;s Recent Data Breach</a></li>
+</ul>
+<h3>LabCorp &#8211; January 2020</h3>
+<ul>
+<li><a href="https://au.news.yahoo.com/labcorp-website-bug-exposed-thousands-132708666.html" target="_blank" rel="noopener noreferrer">LabCorp security lapse exposed thousands of medical documents</a></li>
+</ul>
+<h3>I.M.L. SLU, the parent company of ImLive and PussyCash &#8211; January 2020</h3>
+<ul>
+<li><a href="https://micky.com.au/porn-site-data-breach-leaks-thousands-of-cam-models-personal-details/" target="_blank" rel="noopener noreferrer">Porn site data breach leaks thousands of cam models’ personal details</a></li>
+<li><a href="https://www.noosanews.com.au/news/porn-stars-exposed-in-data-leak/3925656/" target="_blank" rel="noopener noreferrer">Porn stars exposed in data leak</a></li>
+<li><a href="https://www.9news.com.au/world/data-leak-exposes-sensitive-details-of-thousands-of-porn-actors/1194a3f7-f69e-407e-922e-305f810c1a80" target="_blank" rel="noopener noreferrer">Exclusive: Australians involved in online pornography data breach</a></li>
+</ul>
+<h3>P&amp;N Bank &#8211; January 2020</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/was-pn-bank-hit-by-data-breach-536564" target="_blank" rel="noopener noreferrer">WA&#8217;s P&amp;N Bank hit by data breach &#8211; &#8220;Non-sensitive&#8221; data from CRM accessed</a></li>
+</ul>
+<h3>Travelex &#8211; January 2020</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/travelex-website-was-hit-by-sodinokibi-ransomware" target="_blank" rel="noopener noreferrer">Travelex website was hit by Sodinokibi ransomware &#8211; Foreign currency firm facing demand to release its systems</a></li>
+</ul>
+<h3>Amazon &#8211; January 2020</h3>
+<ul>
+<li><a href="https://www.gizmodo.com.au/2020/01/amazon-employees-leak-customer-data-to-third-party-agent-again/" target="_blank" rel="noopener noreferrer">Amazon Employees Leak Customer Data To Third-Party Agent (Again)</a></li>
+</ul>
+<h3>Wyze &#8211; January 2020</h3>
+<ul>
+<li><a href="https://www.lifehacker.com.au/2019/12/how-to-protect-your-wyze-account-after-the-recent-data-breach/" target="_blank" rel="noopener noreferrer">How To Protect Your Wyze Account After The Recent Data Breach</a> &#8211; A recent security breach has leaked the information of over 2.4 million Wyze security camera users. The compromised database was left unsecured and publically accessible, and it appears that the information was being collected and stored by the Alibaba cloud computing company in China.\</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></div><div id="nineteen" class="wpb_row vc_row-fluid standard-section section  section-no-parallax linear-regray stretch   " data-speed="1" style="background-color: #231f20; padding-top: 60px; padding-bottom: 40px; "><div class="col span_12 color-dark left">
+<div class="vc_col-sm-12 wpb_column column_container col no-padding color-dark" style="" data-animation="" data-delay="">
+<div class="wpb_wrapper">
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="spacer" style="height: 40px;"></div><h3 class="headline font-inherit fontsize-xl fontweight-700 lh-12 align-left transform-uppercase " style="margin: 0 0 10px 0; color: #ffffff;">The 2019</h3><h3 class="headline font-inherit fontsize-xxxl fontweight-700 lh-12 align-left transform-uppercase redtext" style="margin: 0 0 40px 0; color: #ffffff;"><span class="pinks">Data Breach</span><br />
+Notifications in Australia</h3></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="single_image wpb_content_element align-center    " data-animation="none" data-delay="0"><picture class="attachment-full sp-no-webp"><source srcset="https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic2.webp 736w,https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic2-300x199.webp 300w" sizes="(max-width: 736px) 100vw, 736px" type="image/webp"><source srcset="https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic2.png 736w, https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic2-300x199.png 300w" sizes="(max-width: 736px) 100vw, 736px" type="image/png"><img src="https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic2.png?x40199" class="attachment-full sp-no-webp" loading="lazy" alt="" height="488" width="736" srcset="https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic2.png 736w, https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic2-300x199.png 300w" sizes="(max-width: 736px) 100vw, 736px"></picture></div></div></div></div></div>
+</div>
+</div>
+</div></div><div class="wpb_row vc_row-fluid standard-section section  section-no-parallax  stretch   " data-speed="1" style="padding-top: 60px; padding-bottom: 60px; "><div class="col span_12 color-dark left">
+<div class="vc_col-sm-12 wpb_column column_container col no-padding color-dark" style="" data-animation="" data-delay="">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h3>Plenty of Fish (PoF) &#8211; December 2019</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/plenty-of-fish-leaks-private-user-informationhttps://www.techradar.com/au/news/plenty-of-fish-leaks-private-user-information" target="_blank" rel="noopener noreferrer">Plenty of Fish leaks private user information &#8211; Users have private information freely displayed on their dating profiles</a></li>
+</ul>
+<h3>Primus Realty &#8211; December 2019</h3>
+<ul>
+<li><a href="https://www.watoday.com.au/national/western-australia/credit-card-and-other-details-of-perth-rental-applicants-may-have-been-public-for-21-months-20191224-p53mqi.html" target="_blank" rel="noopener noreferrer">Credit card and other details of Perth rental applicants may have been public for 21 months</a></li>
+</ul>
+<h3>Amazon Ring &#8211; December 2019</h3>
+<ul>
+<li><a href="https://www.businessinsider.com.au/how-to-protect-amazon-ring-against-hackers-spying-2019-12" target="_blank" rel="noopener noreferrer">Amazon Ring cameras keep getting hacked. Here&#8217;s how to protect your Ring against hackers</a></li>
+</ul>
+<h3>Vistaprint &#8211; December 2019</h3>
+<ul>
+<li><a href="https://www.print21.com.au/news/800-australians-in-vistaprint-data-breach" target="_blank" rel="noopener noreferrer">800 Australians in Vistaprint data breach</a> &#8211; Web-to-print giant Vistaprint has discovered around 800 of its Australian customers were on the online data breach first revealed in an Australia-exclusive by Print21 last week, and at the time thought to not include any local customers.</li>
+</ul>
+<h3>Monash IVF Group &#8211; December 2019</h3>
+<ul>
+<li><a href="https://www.smh.com.au/national/fears-over-patient-data-breach-after-cyber-attack-on-monash-ivf-20191203-p53gj0.html" target="_blank" rel="noopener noreferrer">Fears over patient data breach after cyberattack on Monash IVF</a> &#8211; One of Australia&#8217;s largest IVF providers has warned patients that it could not rule out the possibility their personal information may have been breached following a widespread cyberattack on staff emails last month.</li>
+</ul>
+<h3>ANU &#8211; November 2019</h3>
+<ul>
+<li><a href="https://the-riotact.com/anu-students-forced-to-re-sit-exam-after-data-leak/339091" target="_blank" rel="noopener noreferrer">ANU students forced to re-sit exam after data leak</a></li>
+</ul>
+<h3>Nord VPN Breach &#8211; November 2019</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/whats-the-truth-about-the-nordvpn-breach-heres-what-we-now-know" target="_blank" rel="noopener noreferrer">What&#8217;s the truth about the NordVPN breach? Here&#8217;s what we now know.  Exactly what happened is a complex story&#8230;</a></li>
+</ul>
+<h3>AIS, Sport Australia &#8211; November 2019</h3>
+<ul>
+<li><a href="https://www.canberratimes.com.au/story/6494627/ais-sport-australia-investigate-potential-data-breach/" target="_blank" rel="noopener noreferrer">AIS, Sport Australia investigate potential data breach</a> &#8211; The AIS and Sport Australia are investigating a potential breach of an agency email account after it was hacked last week.</li>
+</ul>
+<h3>ZoneAlarm &#8211; November 2019</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/zonealarm-hit-in-data-breach" target="_blank" rel="noopener noreferrer">Personal details of 4,500 forum subscribers were obtained by hackers</a></li>
+</ul>
+<h3>Monash IVF Group &#8211; November 2019</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2019-11-06/monash-ivf-email-malicious-cyber-attack/11675116" target="_blank" rel="noopener noreferrer">Monash IVF patients receive bogus emails after &#8216;malicious cyber attack&#8217; on fertility company</a></li>
+</ul>
+<h3>NSW Labor Headquarters &#8211; November 2019</h3>
+<ul>
+<li><a href="https://www.afr.com/politics/nsw-labor-headquarters-reported-for-possible-data-breach-20191101-p536kq" target="_blank" rel="noopener noreferrer">NSW Labor Headquarters Reported For possible Data Breach</a> &#8211; The NSW Labor party could be dragged into the troubles of an embattled Sydney mayor after he was accused of breaching data privacy laws and misusing the electoral roll.</li>
+</ul>
+<h3>Adobe &#8211; October 2019</h3>
+<ul>
+<li><a href="https://www.gizmodo.com.au/2019/10/75-million-adobe-accounts-exposed-by-security-blunder-report/" target="_blank" rel="noopener noreferrer">7.5 Million Adobe Accounts Exposed By Security Blunder</a></li>
+</ul>
+<h3>GET &#8211; October 2019</h3>
+<ul>
+<li><a href="https://www.9news.com.au/technology/get-ticketing-data-privacy/f7343ce6-a8ab-4b19-9604-8503b313b204" target="_blank" rel="noopener noreferrer">Tech start-up apologises to students after potential data breach</a></li>
+</ul>
+<h3>Google &#8211; October 2019</h3>
+<ul>
+<li><a href="https://www.channelnews.com.au/accc-take-google-to-federal-court/" target="_blank" rel="noopener noreferrer">ACCC Go After Google Claiming Data Breach</a></li>
+</ul>
+<h3>Optus &#8211; October 2019</h3>
+<ul>
+<li><a href="https://www.smh.com.au/national/thousands-of-optus-mobile-numbers-mistakenly-published-in-white-pages-20191025-p5346z.html" target="_blank" rel="noopener noreferrer">Thousands of Optus mobile numbers mistakenly published in White Pages</a></li>
+</ul>
+<h3>Sydney IT Contractor &#8211; October 2019</h3>
+<ul>
+<li><a href="https://www.9news.com.au/national/it-contractor-could-face-jail-over-data-breach-affecting-270000-people-sydney-news/c6007a3e-b637-4156-a38c-553a206786a4" target="_blank" rel="noopener noreferrer">Sydney IT contractorcould face jail over data breaches affecting 270,000 people</a></li>
+<li><a href="https://www.smh.com.au/national/nsw/trusted-inside-access-sydney-it-contractor-arrested-over-landmark-white-data-breach-20191002-p52wup.html" target="_blank" rel="noopener noreferrer">&#8216;Trusted inside access&#8217;</a> &#8211; Sydney IT contractor arrested over Landmark White data breach</li>
+<li><a href="https://www.theleader.com.au/story/6418252/contractor-charged-over-sydney-data-breach/?cs=9397" target="_blank" rel="noopener noreferrer">Contractor charged over Sydney data breach</a></li>
+</ul>
+<h3>Victorian Hospitals &#8211; October 2019</h3>
+<ul>
+<li><a href="https://www.theage.com.au/national/victoria/surgeries-delayed-and-patient-security-fears-after-cyber-attack-on-victorian-hospitals-20191001-p52wp1.html" target="_blank" rel="noopener noreferrer">Surgeries delayed and patient security fears after cyber attack on Victorian hospitals</a></li>
+<li><a href="https://7news.com.au/news/health/multiple-victorian-hospitals-hacked-in-suspected-ransomware-attack-c-481074" target="_blank" rel="noopener noreferrer">Multiple Victorian hospitals hacked in suspected ransomware attack</a></li>
+</ul>
+<h3>Zynga &#8211; October 2019</h3>
+<ul>
+<li><a href="https://futurefive.com.au/story/social-games-company-zynga-reveals-data-breach">Social games company Zynga reveals data breach</a> &#8211; Zynga has disclosed a data breach that may have compromised millions of account login details for its popular Words With Friends and Draw Something games.</li>
+<li><a href="https://www.gizmodo.com.au/2019/10/words-with-friends-data-allegedly-stolen-in-breach-that-could-affect-218-million-users/" target="_blank" rel="noopener noreferrer">Words With Friends Data Allegedly Stolen In Breach That Could Affect 218 Million Users</a></li>
+</ul>
+<h3>DoorDash &#8211; September 2019</h3>
+<ul>
+<li><a href="https://www.smartcompany.com.au/startupsmart/news/doordash-data-breach/" target="_blank" rel="noopener noreferrer">UberEats competitor DoorDash suffers data breach, exposing details of five million customers</a></li>
+<li><a href="https://au.news.yahoo.com/2019-09-26-doordash-security-breach-4-9-million-affected.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAF4BUjQG-m4jWBklxjpCmBB3fPNvZpZHekbsDwx4-lmNMTl0SVu_eXEe28aiSJmG696hzxn9aqfPft5-L-W8ate6v0GnJ3WsPlJl0G6tfLyba7OB2bdoDSVGMnB_7iNggWL38Q_olDiO_GMffVBOgvvsk5o8kw7lHXRtVp-hr6yj&amp;guccounter=2" target="_blank" rel="noopener noreferrer">DoorDash security breach affects nearly 5 million users</a></li>
+</ul>
+<h3>Get &#8211; September 2019</h3>
+<ul>
+<li><a href="https://10daily.com.au/news/tech/a190910yrdzu/alarming-data-breach-exposes-50000-students-in-ticketing-website-bungle-20190910" target="_blank" rel="noopener noreferrer">&#8216;Alarming&#8217; Data Breach Exposes 50,000 Students In Ticketing Website Bungle</a></li>
+<li><a href="https://www.afr.com/technology/get-data-breach-leaves-50-000-students-vulnerable-20190910-p52ppo" target="_blank" rel="noopener noreferrer">Get data breach leaves 50,000 students vulnerable</a></li>
+<li><a href="https://honisoit.com/2019/09/data-breach-suffered-by-online-service-used-by-sass-scisoc-st-johns-college/" target="_blank" rel="noopener noreferrer">Data breach suffered by online service used by SASS, SciSoc, St John’s College</a></li>
+</ul>
+<h3>TGI Fridays &#8211; September 2019</h3>
+<ul>
+<li><a href="https://www.smartcompany.com.au/technology/cyber-security/tgi-fridays-data-breach/" target="_blank" rel="noopener noreferrer">TGI Fridays admits to exposing customer data, as Aussie breaches spike</a></li>
+<li><a href="https://www.franchisebusiness.com.au/tgi-fridays-australia-data-breach/" target="_blank" rel="noopener noreferrer">TGI Fridays Australia data breach highlights concern</a></li>
+</ul>
+<h3>Web.com &#8211; August 2019</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/webcom-discloses-major-data-breach" target="_blank" rel="noopener noreferrer">Web.com, Register.com and Network Solutions all suffered a data breach in August</a></li>
+</ul>
+<h3>Imperva &#8211; August 2019</h3>
+<ul>
+<li><a href="https://www.crn.com.au/news/imperva-discloses-data-breach-affecting-some-firewall-users-530232" target="_blank" rel="noopener noreferrer">Imperva discloses data breach affecting some firewall users</a></li>
+</ul>
+<h3>PAY ID &#8211; August 2019</h3>
+<ul>
+<li><a href="https://www.9news.com.au/national/payid-data-breach-commbank-westpac-nab-anz-customers-personal-information-at-risk/3e5f4da5-763d-4069-92f2-7450937281fb" target="_blank" rel="noopener noreferrer">Personal banking information at risk following fresh data breach</a></li>
+<li><a href="https://www.afr.com/technology/banks-told-to-tighten-security-after-payments-data-breach-20190825-p52kio" target="_blank" rel="noopener noreferrer">Banks told to tighten security after payments data breach</a></li>
+<li><a href="https://www.smh.com.au/business/banking-and-finance/payid-in-new-breach-affecting-customers-at-big-four-banks-20190821-p52jby.html" target="_blank" rel="noopener noreferrer">PayID in new breach affecting customers at big four banks</a></li>
+<li><a href="https://www.itnews.com.au/news/aussie-banks-warn-customers-after-fresh-payid-data-breach-529938" target="_blank" rel="noopener noreferrer">Aussie banks warn customers after fresh PayID data breach</a></li>
+<li><a href="https://www.news.com.au/finance/business/banking/westpacs-payid-breach-sees-customers-banking-information-hacked/news-story/08c3fb5bad5ee01463233ed669b33013" target="_blank" rel="noopener noreferrer">PayID breach sees customers’ banking information hacked</a> &#8211; Tens of thousands of customers’ personal banking details are at risk after scammers broke into a new payment database.</li>
+</ul>
+<h3>BUPA &#8211; Sonic HealthPlus (SHP) &#8211; August 2019</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/health/2019-08-15/bupa-immigration-medical-data-breach/11413740" target="_blank" rel="noopener noreferrer">Sensitive personal data of hundreds of visa applicants accidentally leaked in email mishap</a> &#8211; The personal health information of 317 people applying for Australian visas was accidentally emailed to a member of the general public, an ABC investigation has revealed.</li>
+</ul>
+<h3>Myki &#8211; August 2019</h3>
+<ul>
+<li><a href="https://7news.com.au/news/melbourne/watchdog-slams-public-transport-victoria-for-myki-data-breach-c-401098" target="_blank" rel="noopener noreferrer">Watchdog slams Public Transport Victoria for Myki data breach</a></li>
+<li><a href="https://www.itnews.com.au/news/botched-myki-data-release-breached-privacy-laws-529680" target="_blank" rel="noopener noreferrer">Botched myki data release breached privacy laws</a></li>
+<li><a href="https://www.abc.net.au/news/2019-08-15/myki-data-spill-breaches-privacy-for-millions-of-users/11416616" target="_blank" rel="noopener noreferrer">&#8216;Shocking&#8217; myki privacy breach for millions of users in data release</a></li>
+<li><a href="https://www.governmentnews.com.au/myki-data-leak-put-privacy-at-risk-report/" target="_blank" rel="noopener noreferrer">Myki data leak put privacy at risk: report</a></li>
+</ul>
+<h3>TAFE NSW &#8211; August 2019</h3>
+<ul>
+<li><a href="https://www.9news.com.au/national/tafe-nsw-data-stolen-staff-data-breach-hackers-pay/1792ef6e-2379-49f2-94af-d5ad35bb0fdf" target="_blank" rel="noopener noreferrer">Exclusive: TAFE NSW staff details stolen after computer systems allegedly hacked</a></li>
+</ul>
+<h3>Cloud Union &#8211; New Zealand &#8211; August 2019</h3>
+<ul>
+<li><a href="https://www.computerworld.com.au/article/665140/ecommerce-service-exposed-passports-id-details-users/" target="_blank" rel="noopener noreferrer">Ecommerce service exposed passports, ID details of users</a> &#8211; S3 bucket included details of individuals included in the Dow Jones Watchlist</li>
+</ul>
+<h3>Air New Zealand &#8211; August 2019</h3>
+<ul>
+<li><a href="https://ia.acs.org.au/article/2019/air-new-zealand-staffer-falls-for-phishing-attack.html" target="_blank" rel="noopener noreferrer">Air New Zealand staffer falls for phishing attack</a> &#8211; Customer info stolen two weeks after airline praised for data privacy.</li>
+</ul>
+<h3>Neoclinical &#8211; August 2019</h3>
+<ul>
+<li><a href="https://www.brisbanetimes.com.au/business/companies/thousands-of-medical-histories-exposed-in-data-breach-20190807-p52euq.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_feed" target="_blank" rel="noopener noreferrer">Thousands of medical histories exposed in data breach</a></li>
+</ul>
+<h3>Sephora &#8211; July 2019</h3>
+<ul>
+<li><a href="https://www.smartcompany.com.au/technology/cyber-security/sephora-data-breach/" target="_blank" rel="noopener noreferrer">Sephora in damage control after Aussies’ data leaked</a></li>
+<li><a href="https://www.ragtrader.com.au/news/sephora-some-customers-may-have-been-exposed" target="_blank" rel="noopener noreferrer">Sephora: &#8220;some customers may have been exposed&#8221;</a></li>
+</ul>
+<h3>AAMC Loss Assessor &#8211; July 2019</h3>
+<ul>
+<li><a href="https://www.insurancenews.com.au/daily/loss-assessor-aamc-hit-by-cyber-breach" target="_blank" rel="noopener noreferrer">Motor loss assessing firm AAMC has alerted insurers after an unauthorised cyber breach affected part of its systems.</a></li>
+</ul>
+<h3>NAB &#8211; July 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/nab-data-breach-hits-13000-customers-528757" target="_blank" rel="noopener noreferrer">NAB reveals 13,000-person data breach at 6PM Friday</a> &#8211; Dataset uploaded to the servers of two service providers.</li>
+<li><a href="https://www.news.com.au/finance/business/banking/nab-admits-thousands-had-personal-data-breached-blaming-human-error/news-story/f6f9d48c55ac6597d4321dff7e51d65a" target="_blank" rel="noopener noreferrer">NAB admits thousands had personal data breached, blaming ‘human error’</a></li>
+</ul>
+<h3>Equifax &#8211; July 2019</h3>
+<ul>
+<li><a href="https://www.techradar.com/au/news/equifax-to-pay-dollar700m-in-data-breach-settlement" target="_blank" rel="noopener noreferrer">Equifax hit with major pay out for data breach settlement</a></li>
+</ul>
+<h3>MYOB &#8211; July 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/myob-privacy-breach-wrongly-emails-220-people-527720" target="_blank" rel="noopener noreferrer">MYOB in payslip privacy bungle</a> &#8211; Blamed on cloud system &#8220;glitch&#8221;</li>
+<li><a href="https://au.finance.yahoo.com/news/peoples-salaries-exposed-after-myob-glitch-005414328.html" target="_blank" rel="noopener noreferrer">Australian workers&#8217; salaries exposed after MYOB glitch</a></li>
+</ul>
+<h3>Commonwealth Bank &#8211; July 2019</h3>
+<ul>
+<li><a href="https://ia.acs.org.au/article/2019/comm-bank-slapped-over-failed-security.html" target="_blank" rel="noopener noreferrer">Comm Bank slapped over failed security</a> &#8211; Missing bank statements cause concern about customer privacy</li>
+</ul>
+<h3>British Airways &#8211; July 2019</h3>
+<ul>
+<li><a href="https://www.adelaidenow.com.au/travel/travel-advice/air-travel/british-airways-faces-recordbreaking-fine-over-data-breach/news-story/68342d53a7dab6bef1a41e77364b5f70" target="_blank" rel="noopener noreferrer">British Airways faces record-breaking fine over data breach</a></li>
+<li><a href="https://www.itnews.com.au/news/british-airways-faces-record-329m-fine-over-data-breach-527869?eid=1&amp;edate=20190710&amp;utm_source=20190710_AM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">British Airways faces record $329m fine over data breach</a> &#8211; Punished under GDPR</li>
+<li><a href="http://www.impactpub.com.au/micebtn/85-news/btn-news/24592-ba-to-contest-data-breach-fine" target="_blank" rel="noopener noreferrer">BA to contest data breach fine</a></li>
+</ul>
+<h3>Queensland Health &#8211; July 2019</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2019-06-26/medical-files-dropped-on-busy-brisbane-road/11249460" target="_blank" rel="noopener noreferrer">Queensland Health launches investigation after medical files found on busy Brisbane road</a></li>
+</ul>
+<h3>MEGT &amp; Ability English &#8211; July 2019</h3>
+<ul>
+<li><a href="https://www.computerworld.com.au/article/663595/education-services-confirms-data-breach/" target="_blank" rel="noopener noreferrer">Education services provider confirms data breach &#8211; </a>Student information system provider left data in open S3 bucket</li>
+<li><a href="https://www.cio.com.au/article/663251/data-breach-exposed-apprentices-passport-details-employment-agreements/" target="_blank" rel="noopener noreferrer">Data breach exposed students passport details, education data</a> &#8211; Education provider hit by sizeable data breach</li>
+</ul>
+<h3>Insurance House &#8211; June 2019</h3>
+<ul>
+<li><a href="https://www.insurancenews.com.au/daily/cyber-attack-impacts-insurance-house" target="_blank" rel="noopener noreferrer">Cyber attack impacts Insurance House</a></li>
+<li><a href="https://www.insurancenews.com.au/corporate/insurance-house-wrestles-with-cyber-attack-aftermath" target="_blank" rel="noopener noreferrer">Insurance House wrestles with cyber attack aftermath</a></li>
+<li><a href="https://www.insurancenews.com.au/daily/cyber-crooks-demanded-ransom-from-prorisk" target="_blank" rel="noopener noreferrer">Cyber crooks ‘demanded ransom’ from ProRisk</a></li>
+<li><a href="https://www.insurancenews.com.au/corporate/we-dont-pay-ransoms-insurance-house" target="_blank" rel="noopener noreferrer">We don’t pay ransoms</a></li>
+</ul>
+<h3>GeelongPort &#8211; June 2019</h3>
+<ul>
+<li><a href="https://infrastructuremagazine.com.au/2019/06/19/geelongport-cyber-attacked/" target="_blank" rel="noopener noreferrer">GeelongPort has been the subject of a cyber attack, resulting in a data breach of its electronically stored information such as visitor induction names and driver licences.</a></li>
+</ul>
+<h3>Nagle Catholic College WA &#8211; June 2019</h3>
+<ul>
+<li class="css-uq0hl1"><a href="https://thewest.com.au/news/geraldton-guardian/parents-financial-details-stolen-in-cyber-attack-on-geraldton-catholic-schools-ng-b881236197z" target="_blank" rel="noopener noreferrer">Parents’ financial details stolen in cyber attack on Geraldton Catholic school</a></li>
+<li class="css-uq0hl1"><a href="https://thewest.com.au/news/education/geraldtons-nagle-catholic-college-swept-up-in-cyber-attack-targeting-parent-banking-details-ng-b881236091z" target="_blank" rel="noopener noreferrer">Geraldton’s Nagle Catholic College swept up in cyber attack targeting parent banking details</a></li>
+<li class="css-uq0hl1"><a href="https://www.abc.net.au/news/2019-06-20/nagle-catholic-school-parents-targeted-in-cyber-attack/11227802" target="_blank" rel="noopener noreferrer">Nagle Catholic College parents targeted in cyber attack on Geraldton high school</a></li>
+</ul>
+<h3>Specsavers Qld &#8211; June 2019</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2019-06-19/specsavers-data-breach-potential-compromise-for-clients/11223800" target="_blank" rel="noopener noreferrer">Specsavers says Qld customers&#8217; private medical information may have been compromised</a></li>
+</ul>
+<h3>Symantec &#8211; June 2019</h3>
+<ul>
+<li><a href="https://www.crn.com.au/news/symantec-breach-revealed-client-list-passwords-report-526694" target="_blank" rel="noopener noreferrer">Symantec breach revealed client list, passwords:</a> report</li>
+</ul>
+<h3>Australian Catholic University &#8211; June 2019</h3>
+<ul>
+<li><a href="https://www.smh.com.au/national/australian-catholic-university-staff-details-stolen-in-fresh-data-breach-20190617-p51yif.html" target="_blank" rel="noopener noreferrer">Staff details stolen in fresh data breach</a></li>
+<li><a href="https://www.technologydecisions.com.au/content/security/news/acu-discloses-data-breach-174544235" target="_blank" rel="noopener noreferrer">ACU discloses data breach</a></li>
+<li><a href="https://www.computerworld.com.au/article/662989/phishers-hit-acu-compromised-systems/" target="_blank" rel="noopener noreferrer">Phishers hit ACU, compromised systems</a></li>
+<li><a href="https://www.arnnet.com.au/article/663022/acu-systems-compromised-and-details-stolen-after-cyber-breach/" target="_blank" rel="noopener noreferrer">ACU systems compromised and details stolen after cyber breach</a></li>
+<li><a href="https://www.itwire.com/security/attackers-use-phishing-to-gain-access-to-acu-staff-data.html" target="_blank" rel="noopener noreferrer">Attackers use phishing to gain access to ACU staff data</a></li>
+</ul>
+<h3>Revenue NSW &#8211; June 2019</h3>
+<ul>
+<li><a href="https://www.illawarramercury.com.au/story/6205119/privacy-fears-for-illawarra-drivers-as-nsw-govt-data-breach-referred-to-icac/" target="_blank" rel="noopener noreferrer">Privacy fears for Illawarra drivers as NSW govt data breach referred to ICAC Illawarra drivers may have had their private details leaked to the media as part of a &#8220;political smear campaign&#8221;</a></li>
+<li><a href="https://au.news.yahoo.com/nsw-labor-refers-alleged-data-leak-icac-235203093--spt.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAABspWyPzYGF3l6U4y0_-X1bQghZMLALY5S4pEbthLS2Gjm4Fs0aNtNwE7fcGMrsB4HJv22fWppCuWPtuUnrd_av7Z_-tOdUVo5C60Rx69qPBs4IOB7IsBuO1jgB9JB1Vf2Usnv-YfFycv6ro4BCGMZJ97gwQyhjpckU-thhzktzK" target="_blank" rel="noopener noreferrer">NSW Labor refers alleged data leak to ICAC</a></li>
+</ul>
+<h3>Australian National University &#8211; June 2019</h3>
+<ul>
+<li><a href="https://www.smh.com.au/politics/federal/china-behind-huge-anu-hack-amid-fears-government-employees-could-be-compromised-20190605-p51uro.html" target="_blank" rel="noopener noreferrer">China &#8216;behind&#8217; huge ANU hack amid fears government employees could be compromised</a></li>
+<li><a href="https://www.canberratimes.com.au/story/6202000/anu-breach-a-risk-for-security-officials-as-china-becomes-key-suspect/" target="_blank" rel="noopener noreferrer">ANU breach a risk for security officials as China becomes key suspect</a></li>
+<li><a href="https://www.sbs.com.au/news/almost-20-years-of-personal-data-was-stolen-from-anu-it-could-show-up-on-the-dark-web" target="_blank" rel="noopener noreferrer">Almost 20 years of personal data was stolen from ANU. It could show up on the dark web</a></li>
+<li><a href="https://www.thebigsmoke.com.au/2019/06/05/19-years-worth-personal-data-stolen-from-anu-could-be-sold-on-dark-web/" target="_blank" rel="noopener noreferrer">19 years’ worth of personal data stolen from ANU</a> – It could be sold on the dark web</li>
+</ul>
+<h3>Microsoft &#8211; May 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/patch-now-against-wormable-bluekeep-remote-desktop-flaw-acsc-526300?eid=65&amp;edate=20190611&amp;utm_source=20190611&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">Patch now against wormable &#8216;BlueKeep&#8217; remote desktop flaw:</a> ACSC &#8211; Spectre of another WannaCry-style epidemic raised</li>
+</ul>
+<h3>Princess Polly &#8211; May 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/aussie-fashion-e-tailer-princess-polly-suffers-data-breach-525998?eid=1&amp;edate=20190603&amp;utm_source=20190603_AM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Aussie fashion e-tailer Princess Polly suffers data breach</a> &#8211; Card info may have been captured as it was entered into site</li>
+</ul>
+<h3>Canva &#8211; May 2019</h3>
+<ul>
+<li><a href="https://www.businessinsider.com.au/canva-under-cyber-attack-with-reportedly-as-many-as-139-million-users-affected-2019-5" target="_blank" rel="noopener noreferrer">Canva under cyber-attack, with reportedly as many as 139 million users affected</a></li>
+<li><a href="https://www.channelnews.com.au/aussie-canva-hit-by-massive-data-breach-user-details-stolen/" target="_blank" rel="noopener noreferrer">Aussie Canva Hit By Massive Data Breach:</a> User Details Stolen</li>
+<li><a href="https://www.afr.com/technology/web/security/canva-criticised-after-data-breach-exposed-139m-user-details-20190526-p51r8i" target="_blank" rel="noopener noreferrer">Canva criticised after data breach exposed 139m user details</a></li>
+<li><a href="https://www.smartcompany.com.au/startupsmart/analysis/canva-data-breach-response/" target="_blank" rel="noopener noreferrer">“Marketing fluff”:</a> What startups can learn from Canva’s data-breach response</li>
+</ul>
+<h3>Instagram &#8211; May 2019</h3>
+<ul>
+<li><a href="https://ia.acs.org.au/article/2019/instagram-hit-by-two-privacy-breaches-in-a-week.html" target="_blank" rel="noopener noreferrer">Instagram hit by two privacy breaches in a week</a> &#8211; The Facebook-owned company fails it users.</li>
+<li><a href="https://www.theaustralian.com.au/world/the-times/instagram-users-data-exposed-to-hackers/news-story/01caa46b867fde3c52c409da78bc8e0a" target="_blank" rel="noopener noreferrer">Instagram users’ data exposed to hackers</a></li>
+<li><a href="https://www.girlfriend.com.au/instagram-data-breach" target="_blank" rel="noopener noreferrer">Instagram has a MAJOR personal data breach 50 million users have had their personal details shared</a></li>
+<li><a href="https://thewest.com.au/news/wa/perth-socialite-melissa-graham-held-to-ransom-after-instagram-privacy-breach-ng-b881206874z" target="_blank" rel="noopener noreferrer">Perth socialite Melissa Graham held to ransom after Instagram privacy breach</a></li>
+</ul>
+<h3>CCH software &#8211; May 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/wolters-kluwer-takes-down-cloud-services-after-malware-infection-524819?eid=65&amp;edate=20190514&amp;utm_source=20190514&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">Wolters Kluwer takes down cloud services after malware infection</a> &#8211; Impacts Australian users of CCH software</li>
+</ul>
+<h3>Binance &#8211; May 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/binance-hackers-shift-stolen-bitcoin-identity-still-unclear-researchers-524907?eid=65&amp;edate=20190514&amp;utm_source=20190514&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">Binance hackers shift stolen bitcoin, identity still unclear: researchers</a> &#8211; Funds now sitting in several digital wallets</li>
+</ul>
+<h3>Twitter &#8211; May 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/twitter-accidentally-shares-user-location-data-with-advertising-partner-525082?eid=65&amp;edate=20190514&amp;utm_source=20190514&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">Twitter accidentally shares user location data with advertising partner | Through Apple devices</a></li>
+</ul>
+<h3>WhatsApp &#8211; May 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/whatsapp-flaw-allowed-spyware-injection-via-calls-525129?eid=65&amp;edate=20190514&amp;utm_source=20190514&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">WhatsApp flaw allowed spyware injection via calls | Pegasus comes calling whether you answer or not</a></li>
+<li><a href="https://www.news.com.au/technology/online/hacking/whatsapp-urges-upgrade-after-serious-security-breach-allowed-hackers-to-put-spyware-on-phones/news-story/2b42521cfdb68fca9841a25875dfa7df" target="_blank" rel="noopener noreferrer">WhatsApp urges upgrade after ‘serious’ security breach allowed hackers to put spyware on phones</a></li>
+<li><a href="https://www.9news.com.au/national/news-security-whatsapp-reveals-major-security-flaw-that-could-let-hackers-access-phones/702e51e2-9f8c-4b8d-a59f-c74253bc4c3f" target="_blank" rel="noopener noreferrer">WhatsApp major security flaw could let hackers access phones</a></li>
+<li><a href="https://au.news.yahoo.com/hackers-exploited-whatsapp-flaw-install-spyware-080339028--spt.html?guccounter=1&amp;guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&amp;guce_referrer_sig=AQAAAHrSwsn5GEW3YCkfEREzEl53O0_9ImDplFV0h5-pDQBFl39-I5DPualSkM_bKBSNlGI0Iotnt4H5HjkPynD0JZ-XY5MSCUwi4rl0HtbxrkCw96yxLCoyFFharYo4lHNCtnBlwPXkinPJxdblxdRoxw95I1_KI0yp36fRR8NzzkgG" target="_blank" rel="noopener noreferrer">WhatsApp patches flaw after spyware revelation</a></li>
+<li><a href="https://www.abc.net.au/news/2019-05-15/whatsapp-security-breach-likely-a-government-surveillance-attack/11113426" target="_blank" rel="noopener noreferrer">WhatsApp security breach likely a government surveillance attack, company says</a></li>
+</ul>
+<h3>WPA3 Dragonfly &#8211; April 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/new-wi-fi-security-standard-broken-already-523730?eid=65&amp;edate=20190416&amp;utm_source=20190416&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">New wi-fi security standard broken already | Implementations not done properly</a></li>
+</ul>
+<h3>Wipro &#8211; April 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/wipro-hacked-internal-systems-used-to-attack-customers-report-523956?eid=65&amp;edate=20190416&amp;utm_source=20190416&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">Wipro hacked, internal systems used to attack customers: report Months-long intrusion</a></li>
+<li><a href="https://www.crn.com.au/news/wipro-confirms-breach-says-customers-are-anxious-523999" target="_blank" rel="noopener noreferrer">Wipro confirms breach, says customers are &#8216;anxious&#8217;</a></li>
+<li><a href="https://www.crn.com.au/news/connectwise-ceo-defends-security-stance-after-wipro-breach-524231" target="_blank" rel="noopener noreferrer">Connectwise CEO defends security stance after Wipro breach</a></li>
+</ul>
+<h3>Speedrun.com &#8211; April 2019</h3>
+<ul>
+<li><a href="https://www.kotaku.com.au/2019/04/major-speedrunning-hub-forced-to-roll-back-rankings-after-security-breach/" target="_blank" rel="noopener noreferrer">Major Speedrunning Hub Forced To Roll Back Rankings After Security Breach</a></li>
+</ul>
+<h3>Australia Post &#8211; March 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/ausposts-bill-scanner-caught-up-in-gmail-privacy-sweep-522917?eid=1&amp;edate=20190327&amp;utm_source=20190327_AM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">AusPost&#8217;s Bill Scanner caught up in Gmail privacy sweep</a> &#8211; Works with Google to ensure API permissions aren’t revoked</li>
+</ul>
+<h3>ASUS &#8211; March 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/asus-users-targeted-in-large-supply-chain-attack-522918?eid=65&amp;edate=20190326&amp;utm_source=20190326&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">ASUS users targeted in large supply chain attack</a> &#8211; Users infected via software update utility</li>
+<li><a href="https://www.itnews.com.au/news/asus-releases-fix-after-shadowhammer-malware-attack-522983?eid=3&amp;edate=20190327&amp;utm_source=20190327_PM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">ASUS releases fix after ShadowHammer malware attack</a> &#8211; But some users unable to update to non-backdoored software</li>
+</ul>
+<h3>Bank of Queensland &#8211; March 2019</h3>
+<ul>
+<li><a href="https://www.mortgagebusiness.com.au/breaking-news/13209-bank-warns-of-third-party-data-breach-reported" target="_blank" rel="noopener noreferrer">Bank warns of reported third-party data breach</a> &#8211; The Bank of Queensland has announced that it has been made aware of a personal data breach by a third party provider</li>
+</ul>
+<h3>Kathmandu &#8211; March 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/credit-cards-cancelled-as-kathmandu-reveals-online-store-hacked-520478?eid=1&amp;edate=20190314&amp;utm_source=20190314_AM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Credit cards cancelled as Kathmandu reveals online store hacked &#8211; month-long breach during peak discount period</a></li>
+<li><a href="https://www.businessnewsaus.com.au/articles/kathmandu-hit-by-hackers.html" target="_blank" rel="noopener noreferrer">Kathmandu hit by hackers</a></li>
+<li><a href="https://www.itnews.com.au/news/credit-cards-cancelled-as-kathmandu-reveals-online-store-hacked-520478" target="_blank" rel="noopener noreferrer">Credit cards cancelled as Kathmandu reveals online store hacked</a></li>
+<li><a href="https://www.theaustralian.com.au/news/latest-news/kathmandu-flags-suspected-data-breach/news-story/e8e95ebbd183a9543b9bf3433b973500" target="_blank" rel="noopener noreferrer">Kathmandu flags suspected data breach</a></li>
+<li><a href="https://www.dynamicbusiness.com.au/technology/data-breaches-have-possibility-to-ruin-customer-relationships.html" target="_blank" rel="noopener noreferrer">Data breaches have possibility to ruin customer relationships</a></li>
+</ul>
+<h3>Citrix &#8211; March 2019</h3>
+<ul>
+<li><a href="https://www.computerworld.com.au/article/658640/citrix-investigates-major-security-breach/" target="_blank" rel="noopener noreferrer">Citrix investigates major security breach &#8211; resecurity says it believes at least 6TB of data was downloaded</a></li>
+<li><a href="https://www.crn.com.au/news/citrix-hackers-stole-employee-financial-data-524598" target="_blank" rel="noopener noreferrer">Citrix hackers stole employee, financial data</a></li>
+</ul>
+<h3>Melbourne Hospital &#8211; February 2019</h3>
+<ul>
+<li><a href="https://10daily.com.au/news/crime/a190220gad/cyber-ransom-attacks-on-the-rise-as-toyota-and-melbourne-hospital-become-latest-victims-20190221" target="_blank" rel="noopener noreferrer">A cyber crime syndicate accessed the medical files of 15,000 patients at Melbourne Heart Group at Melbourne&#8217;s Cabrini Hospital</a></li>
+<li><a href="https://www.3aw.com.au/the-crooks-are-ahead-cabrini-breach-a-warning-for-australia/" target="_blank" rel="noopener noreferrer">‘The crooks are ahead’: Cabrini breach a warning for Australia</a></li>
+<li><a href="https://www.arnnet.com.au/article/658014/melbourne-heart-clinic-hit-by-ransomware-attack/" target="_blank" rel="noopener noreferrer">Melbourne heart clinic hit by ransomware attack</a></li>
+</ul>
+<h3>CoffeeMeetsBagel &#8211; February 2019</h3>
+<ul>
+<li><a href="https://www.cso.com.au/article/657782/dating-site-coffee-meetsbagel-warns-aussie-users-data-breach-valentines-day/" target="_blank" rel="noopener noreferrer">Dating site Coffee MeetsBagel warns Aussie users of data breach on Valentines Day</a></li>
+<li><a href="https://au.pcmag.com/news/60753/coffee-meets-bagel-dating-site-hit-by-data-breach" target="_blank" rel="noopener noreferrer">&#8216;Coffee Meets Bagel&#8217; Dating Site Hit by Data Breach</a></li>
+</ul>
+<h3>9Honey &#8211; February 2019</h3>
+<ul>
+<li><a href="https://finance.nine.com.au/2019/02/15/06/38/dating-app-suffers-data-breach" target="_blank" rel="noopener noreferrer">Dating app suffers data breach</a></li>
+</ul>
+<h3>Toyota Australia &#8211; February 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/toyota-australia-hit-by-cyber-attack-519596?eid=3&amp;edate=20190221&amp;utm_source=20190221_PM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Toyota Australia hit by cyber attack &#8211; takes down email and other systems</a></li>
+<li><a href="https://10daily.com.au/news/crime/a190220gad/cyber-ransom-attacks-on-the-rise-as-toyota-and-melbourne-hospital-become-latest-victims-20190221" target="_blank" rel="noopener noreferrer">Cyber Ransom Attacks On The Rise, Toyota Australia has confirmed it has been subject to an attempted cyber attack</a></li>
+<li><a href="https://www.itnews.com.au/news/millions-of-customers-data-accessed-in-second-toyota-hack-523134?eid=65&amp;edate=20190402&amp;utm_source=20190402&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">Millions of customers&#8217; data accessed in second Toyota hack &#8211; Tokyo sales subsidiaries raided</a></li>
+<li><a href="https://www.itnews.com.au/news/toyota-australia-hit-by-cyber-attack-519596" target="_blank" rel="noopener noreferrer">Toyota Australia hit by cyber attack</a></li>
+</ul>
+<h3>AMP &#8211; February 2019</h3>
+<ul>
+<li><a href="https://www.channelnews.com.au/chinese-amp-contractor-pleads-guilty-to-data-breach/" target="_blank" rel="noopener noreferrer">Chinese AMP contractor pleads guilty to data breach</a></li>
+</ul>
+<h3>LandMark White &#8211; February 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/australian-bank-customers-caught-in-valuation-firm-data-breach-519204?eid=1&amp;edate=20190213&amp;utm_source=20190213_AM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Australian bank customers caught in valuation firm data breach | Caused by undisclosed &#8216;security vulnerability&#8217;</a></li>
+<li><a href="https://www.smh.com.au/business/companies/home-loan-details-in-major-data-breach-20190212-p50xas.html?ref=rss&amp;utm_medium=rss&amp;utm_source=rss_feed" target="_blank" rel="noopener noreferrer">Home loan details of 100,000 customers hacked in major data breach</a></li>
+<li><a href="https://www.computerworld.com.au/article/657662/landmark-white-blames-exposed-api-data-breach/" target="_blank" rel="noopener noreferrer">LandMark White blames exposed API for data breach &#8211; ANZ confirms it has suspended use of the property valuer</a></li>
+<li><a href="https://www.itnews.com.au/news/valuation-firm-hit-by-data-breach-landmark-white-pleads-for-long-share-suspension-519540?eid=1&amp;edate=20190220&amp;utm_source=20190220_AM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Valuation firm hit by data breach LandMark White pleads for long share suspension</a></li>
+<li><a href="https://www.smh.com.au/business/companies/landmark-white-shares-drop-10-6-pc-after-data-breach-20190218-p50yi8.html" target="_blank" rel="noopener noreferrer">Embattled LandMark White shares drop 10.6 pc after data breach</a></li>
+<li><a href="https://www.smh.com.au/business/companies/nab-pulls-plug-on-landmark-white-as-home-loan-breach-scandal-grows-20190213-p50xkk.html" target="_blank" rel="noopener noreferrer">NAB pulls plug on LandMark White as home loan breach scandal grows</a></li>
+<li><a href="https://www.propertyobserver.com.au/forward-planning/investment-strategy/property-news-and-insights/95551-landmark-white-blames-illinformed-public-commentary-on-its-dark-web-data-breach-for-further-share-suspension.html" target="_blank" rel="noopener noreferrer">LandMark White blames ill-informed public commentary on its dark web data breach for further ASX share suspension</a></li>
+<li><a href="https://www.afr.com/real-estate/centrelink-keeps-landmarkwhite-says-data-breach-hit-very-small-client-group-20190222-h1bm8p" target="_blank" rel="noopener noreferrer">Centrelink keeps LandmarkWhite, says data breach hit &#8216;very small&#8217; client group</a></li>
+<li><a href="https://www.computerworld.com.au/article/657932/landmark-white-counts-cost-data-breach/" target="_blank" rel="noopener noreferrer">LandMark White counts cost of data breach &#8211; LandMark White still unsure of financial impact</a></li>
+<li><a href="https://www.afr.com/real-estate/landmarkwhite-knew-of-it-weakness-in-2017-a-year-before-data-breach-20190308-h1c5vr" target="_blank" rel="noopener noreferrer">LandmarkWhite knew of IT weakness in 2017, a year before data breach</a></li>
+<li><a href="https://www.itnews.com.au/news/landmark-whites-stolen-data-re-appears-on-dark-web-520541?eid=1&amp;edate=20190315&amp;utm_source=20190315_AM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Landmark White&#8217;s stolen data re-appears on dark web</a></li>
+<li><a href="https://www.afr.com/real-estate/landmark-white-data-disaster-claims-ceo-scalp-20190312-h1caqc" target="_blank" rel="noopener noreferrer">Landmark White data disaster claims CEO scalp</a></li>
+<li><a href="https://www.afr.com/real-estate/landmarkwhite-faces-regulator-scrutiny-over-it-response-disclosure-20190311-h1c8xr" target="_blank" rel="noopener noreferrer">LandmarkWhite faces regulator scrutiny over IT response, disclosure</a></li>
+<li><a href="https://www.computerworld.com.au/article/658758/landmark-white-ceo-exits-after-data-breach/" target="_blank" rel="noopener noreferrer">LandMark White CEO exits after data breach &#8211; two directors step down from board</a></li>
+<li><a href="https://www.itnews.com.au/news/cba-assures-itself-of-landmark-whites-post-breach-infosec-522201" target="_blank" rel="noopener noreferrer">CBA assures itself of LandMark White&#8217;s post-breach infosec</a></li>
+<li><a href="https://www.businessnewsaus.com.au/articles/landmark-white-s-data-breach-just-the-beginning-for-cyber-criminals.html" target="_blank" rel="noopener noreferrer">LandMark White&#8217;s data breach just the beginning for cyber criminals</a></li>
+</ul>
+<h3>Department of Parliamentary Services &#8211; February 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/security-breach-strikes-parliaments-it-network-519035?eid=3&amp;edate=20190208&amp;utm_source=20190208_PM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Security breach strikes parliament&#8217;s IT network</a> &#8211; all passwords reset</li>
+<li><a href="https://www.itnews.com.au/news/political-party-networks-caught-up-in-parliaments-it-breach-519467?eid=3&amp;edate=20190218&amp;utm_source=20190218_PM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Political party networks caught up in parliament&#8217;s IT breach</a> &#8211; but no evidence of electoral interference</li>
+<li><a href="https://www.abc.net.au/news/2019-02-20/cyber-activists-or-state-actor-attack-how-experts-tell/10825466" target="_blank" rel="noopener noreferrer">The cyber attack on Parliament was done by a &#8216;state actor&#8217; </a></li>
+<li><a href="https://www.itnews.com.au/news/iranian-hackers-raid-citrixs-enterprise-network-520324?eid=1&amp;edate=20190311&amp;utm_source=20190311_AM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Citrix | Australian parliament hackers gain remote access</a></li>
+</ul>
+<h3>Bunnings &#8211; February 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/bunnings-exposed-staff-performance-database-518929?eid=1&amp;edate=20190207&amp;utm_source=20190207_AM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Bunnings exposed staff performance database</a> &#8211; individual staffer did unwanted homework</li>
+</ul>
+<h3>Facebook &#8211; January 2019</h3>
+<ul>
+<li><a href="https://tendaily.com.au/news/a190130tda/facebook-has-been-nabbed-paying-kids-for-their-data-20190131" target="_blank" rel="noopener noreferrer">Apple Shuts Down Facebook Data Collecting App</a> &#8211; Since 2016, Facebook has been asking users to install a &#8220;Facebook Research&#8221; VPN that lets the company monitor their phone and online activity, according to Tech Crunch</li>
+<li><a href="https://www.smh.com.au/technology/apple-punishes-facebook-over-app-that-paid-users-to-hand-over-data-20190131-p50upf.html" target="_blank" rel="noopener noreferrer">Apple punishes Facebook over app that paid users to hand over data</a></li>
+<li><a href="https://au.pcmag.com/news/60517/the-apple-facebook-feud-hits-a-breaking-point" target="_blank" rel="noopener noreferrer">The Apple-Facebook Feud Hits a Breaking Point</a></li>
+<li><a href="https://www.itnews.com.au/news/facebook-stored-millions-of-user-passwords-in-plain-text-522782?eid=1&amp;edate=20190322&amp;utm_source=20190322_AM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Facebook stored millions of user passwords in plain text</a> &#8211; hundreds of millions of users to be notified</li>
+<li><a href="https://www.itnews.com.au/news/facebook-says-up-to-111813-aussies-in-last-years-security-breach-522982" target="_blank" rel="noopener noreferrer">Facebook says up to 111,813 Aussies in last year&#8217;s security breach</a></li>
+<li><a href="https://thenewdaily.com.au/life/tech/2019/03/22/facebook-password-security-breach/" target="_blank" rel="noopener noreferrer">Facebook’s lax security has left millions of users with a lot to worry about</a></li>
+<li><a href="https://www.abc.net.au/news/2019-03-22/facebook-stored-passwords-in-plain-text/10927994" target="_blank" rel="noopener noreferrer">Facebook staff had access to millions of users&#8217; passwords in plain text, violating security practices</a></li>
+</ul>
+<h3>Global Hacking Scare &#8211; January 2019</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2019-01-31/global-hacking-scare-nets-queensland-mp-surf-lifesaving/10762738" target="_blank" rel="noopener noreferrer">Global hacking scare nets Queensland MP, Surf Life Saving as millions of passwords breached</a> &#8211; websites belonging to Queensland&#8217;s Deputy Opposition Leader, a real estate business and Surf Life Saving Australia are among thousands of pages caught up in the latest international data breach</li>
+</ul>
+<h3>SkoolBag &#8211; January 2019</h3>
+<ul>
+<li><a href="https://www.crn.com.au/news/moqdigitals-education-software-platform-skoolbag-caught-in-global-data-breach-518516" target="_blank" rel="noopener noreferrer">MOQdigital&#8217;s education software platform SkoolBag caught in global data breach</a></li>
+</ul>
+<h3>Optus &#8211; January 2019</h3>
+<ul>
+<li><a href="https://psnews.com.au/2019/01/28/cyber-watchdog-warns-on-dark-web-ps-data/" target="_blank" rel="noopener noreferrer">&#8216;Mistakenly&#8217; Publishes Private Numbers Online And In White Pages</a></li>
+</ul>
+<h3>Collection #1 &#8211; January 2019</h3>
+<ul>
+<li><a href="https://au.pcmag.com/agilebits-1password/60358/collection-1-breach-exposes-a-record-773-million-email-addre" target="_blank" rel="noopener noreferrer">Breach Exposes a Record 773 Million Email Addresses</a> &#8211; The massive trove of leaked data, which was posted to a hacking forum, also includes 21,222,975 unique passwords.</li>
+<li><a href="https://itbrief.com.au/story/experts-comment-on-record-772mil-user-data-breach" target="_blank" rel="noopener noreferrer">Experts comment on record 772mil-user data breach</a> &#8211; Cybersecurity expert and founder of website Have I Been Pwned Troy Hunt broke the news recently that the largest ever database of breached login details have been leaked on the dark web.</li>
+<li><a href="https://www.gadgetguy.com.au/data-leak-collection-1-is-the-just-the-beginning/" target="_blank" rel="noopener noreferrer">Data leak – Collection #1 is the just the beginning</a></li>
+<li><a href="https://psnews.com.au/2019/01/28/cyber-watchdog-warns-on-dark-web-ps-data/" target="_blank" rel="noopener noreferrer">Cyber watchdog warns on dark web PS data</a> &#8211; The Australian Cyber Security Centre (ACSC) has urged organisations and individuals across the Australian Public Service to check if their email addresses and/or passwords are included on recently released lists of stolen data.</li>
+</ul>
+<h3>Fisheries Queensland &#8211; January 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/fisheries-qld-blames-bad-update-for-password-fault-517776" target="_blank" rel="noopener noreferrer">Fisheries Qld blames bad update for password &#8216;fault</a> &#8211; allowed fisherman to get into any account.</li>
+</ul>
+<h3>First National Real Estate &#8211; January 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/first-national-real-estate-has-job-applicant-data-exposed-online-517597" target="_blank" rel="noopener noreferrer">Job applicant data exposed online CVs and cover letters published</a></li>
+<li><a href="https://www.technologydecisions.com.au/content/security/news/first-national-real-estate-suffers-data-breach-73266628" target="_blank" rel="noopener noreferrer">Real estate industry provider exposes data</a></li>
+<li><a href="https://www.hcamag.com/hr-news/data-breach-exposes-personal-info-of-jobseekers-259255.aspx" target="_blank" rel="noopener noreferrer">Data breach exposes personal info of jobseekers</a></li>
+</ul>
+<h3>Department of Planning and Environment, NSW Major Projects &#8211; January 2019</h3>
+<ul>
+<li><a href="https://www.tweeddailynews.com.au/news/fury-over-privacy-breach/3616480/" target="_blank" rel="noopener noreferrer">Fury over privacy &#8216;breach&#8217;. FURIOUS Tweed Valley Hospital site protesters say their privacy has been breached after a State Government body allegedly published their personal details online without permission.</a></li>
+</ul>
+<h3>Victorian Government &#8211; January 2019</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/vic-govt-employee-directory-accessed-by-unauthorised-party-517421" target="_blank" rel="noopener noreferrer"> Vic Govt employee directory accessed by unauthorised party impacts about 30,000 staff</a></li>
+</ul>
+<h3>Marriott Hotel Group / Starwood &#8211; January 2019</h3>
+<ul>
+<li><a href="https://www.gizmodo.com.au/2019/01/marriott-unsure-how-many-hundreds-of-millions-of-guests-got-screwed-by-data-breach/" target="_blank" rel="noopener noreferrer">Marriott Unsure How Many Hundreds Of Millions Of Guests Got Screwed By Data Breach</a></li>
+<li><a href="https://www.itnews.com.au/news/starwood-hack-exposed-525m-unencrypted-passport-numbers-517548?eid=3&amp;edate=20190109&amp;utm_source=20190109_PM&amp;utm_medium=newsletter&amp;utm_campaign=daily_newsletter" target="_blank" rel="noopener noreferrer">Starwood hack exposed 5.25m unencrypted passport numbers</a></li>
+<li><a href="https://www.itnews.com.au/news/marriott-ceo-apologises-for-data-breach-vows-improvements-520292" target="_blank" rel="noopener noreferrer">Marriott CEO apologises for data breach, vows improvements</a></li>
+</ul>
+<h3>Early Warning Network &#8211; January 2019</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2019-01-07/emergency-text-service-hacked-warning-about-personal-data-sent/10688748" target="_blank" rel="noopener noreferrer">Emergency text and email service hacked, thousands receive warning messages about their personal data.</a></li>
+</ul>
+<h3>Big W &#8211; January 2019</h3>
+<ul>
+<li><a href="https://www.smartcompany.com.au/industries/retail/big-w-data-leak-2018/">Customer data leaked due to printer repair mishap</a></li>
+</ul>
+<h3>Hawthorn Football Club &#8211; January 2019</h3>
+<ul>
+<li><a href="http://www.afl.com.au/news/2018-12-21/hawthorn-members-personal-info-stolen-in-car-theft">Hawks warn members of security threat</a></li>
+</ul>
+<h3>Nova Entertainment &#8211; January 2019</h3>
+<ul>
+<li><a href="https://mumbrella.com.au/nova-notifies-listeners-of-data-breach-558550">Nova notifies listeners of data breach</a> &#8211; Nova Entertainment has admitted that listeners’ data from the period of May 2009 to October 2011 has been “publicly disclosed”.</li>
+<li><a href="https://thenewdaily.com.au/news/national/2018/12/28/nova-radio-network-admits-huge-data-breach/">Nova admits to huge data breach</a></li>
+<li><a href="https://tendaily.com.au/news/australia/a181228qon/nova-admits-listener-info-has-been-leaked-in-data-breach-20181228">Nova Admits Listener Info Has Been Leaked</a></li>
+</ul>
+<h3>My Health Records &#8211; January 2019</h3>
+<ul>
+<li><a href="https://www.smh.com.au/politics/federal/critics-want-my-health-record-delayed-again-after-recording-42-data-breaches-this-year-20181231-p50owr.html">Critics want My Health Record delayed again</a> after recording 42 data breaches this year.</li>
+<li><a href="https://www.healthcareit.com.au/article/my-health-record-system-data-breaches-rise" target="_blank" rel="noopener noreferrer">My Health Record system data reaches rise</a></li>
+<li><a href="https://www.cso.com.au/article/657039/my-health-record-opt-out-ends-security-concerns-continue/" target="_blank" rel="noopener noreferrer">As My Health Record opt-out ends, security concerns continue</a></li>
+</ul>
+<h3>Victorian Public Servants &#8211; January 2019</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2019-01-01/victorian-government-employee-directory-data-breach/10676932">Victorian Public Servants hit by massive data theft</a> &#8211; The work details of 30,000 of Victorian public servants were stolen from a government directory in a data breach just days before Christmas.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></div><div id="eighteen" class="wpb_row vc_row-fluid standard-section section  section-no-parallax linear-gray stretch   " data-speed="1" style="background-color: #231f20; padding-top: 60px; padding-bottom: 40px; "><div class="col span_12 color-dark left">
+<div class="vc_col-sm-12 wpb_column column_container col no-padding color-dark" style="" data-animation="" data-delay="">
+<div class="wpb_wrapper">
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="spacer" style="height: 40px;"></div><h3 class="headline font-inherit fontsize-xl fontweight-700 lh-12 align-left transform-uppercase " style="margin: 0 0 10px 0; color: #ffffff;">The 2018</h3><h3 class="headline font-inherit fontsize-xxxl fontweight-700 lh-12 align-left transform-uppercase redtext" style="margin: 0 0 40px 0; color: #ffffff;"><span class="pinks">Data Breach</span><br />
+Notifications in Australia</h3></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="single_image wpb_content_element align-center    " data-animation="none" data-delay="0"><picture class="attachment-full sp-no-webp"><source srcset="https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3.webp 736w,https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3-300x199.webp 300w" sizes="(max-width: 736px) 100vw, 736px" type="image/webp"><source srcset="https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3.png 736w, https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3-300x199.png 300w" sizes="(max-width: 736px) 100vw, 736px" type="image/png"><img src="https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3.png?x40199" class="attachment-full sp-no-webp" loading="lazy" alt="" height="488" width="736" srcset="https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3.png 736w, https://www.webberinsurance.com.au/wp-content/uploads/2019/04/Data-Breaches-pic3-300x199.png 300w" sizes="(max-width: 736px) 100vw, 736px"></picture></div></div></div></div></div>
+</div>
+</div>
+</div></div><div class="wpb_row vc_row-fluid standard-section section  section-no-parallax  stretch   " data-speed="1" style="padding-top: 40px; padding-bottom: 60px; "><div class="col span_12 color-dark left">
+<div class="vc_col-sm-12 wpb_column column_container col no-padding color-dark" style="" data-animation="" data-delay="">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h3>Commonwealth Bank &#8211; December 2018</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2018-12-03/commonwealth-bank-medical-data-exposed-potential-privacy-breach/10563414" target="_blank" rel="noopener noreferrer">Commonwealth Bank customers&#8217; medical data exposed in potential privacy breach</a> &#8211; The Commonwealth Bank is urgently investigating a potential data breach that may have given its staff access to customers&#8217; sensitive medical information.</li>
+</ul>
+<h3>Humble Bundle &#8211; December 2018</h3>
+<ul>
+<li> <a href="https://www.kotaku.com.au/2018/12/humble-bundle-suffered-very-limited-data-breach/" target="_blank" rel="noopener noreferrer">Humble Bundle Falls Victim To &#8216;Very Limited&#8217; Data Breach [Updated] </a></li>
+</ul>
+<h3>News Corp &#8211; December 2018</h3>
+<ul>
+<li><a href="https://securitybrief.com.au/story/news-corp-s-email-bungle-a-harsh-lesson-in-data-privacy" target="_blank" rel="noopener noreferrer">News Corp&#8217;s email bungle a harsh lesson in data privacy</a></li>
+</ul>
+<h3>Marriott&#8217;s Hotels &#8211; December 2018</h3>
+<ul>
+<li><a href="https://www.news.com.au/travel/travel-updates/incidents/massive-data-breach-at-marriotts-hotels-exposes-private-data-of-500000-guests/news-story/ff37b7cb29e6245d79fbf76c6c093e2e" target="_blank" rel="noopener noreferrer">Massive data breach at Marriott’s hotels exposes private data of 500,000 guests</a> &#8211; A massive data breach has exposed the private data, including passport and credit card numbers, of half a million guests of the international hotel chain.</li>
+<li><a href="https://www.smartcompany.com.au/technology/marriott-data-breach-500-million/" target="_blank" rel="noopener noreferrer">Credit card info and passport details of 500 million Marriott guests stolen in mammoth data breach</a></li>
+</ul>
+<h3>Dell &#8211; November 2018</h3>
+<ul>
+<li><a href="https://www.itwire.com/security/85444-dell-resets-dell-com-passwords-after-finding-likely-data-breach.html" target="_blank" rel="noopener noreferrer">Dell resets dell.com passwords after finding likely data breach</a> &#8211; Computer manufacturer Dell has reset all passwords for accounts on its dell.com site, after it became aware on 9 November that an attempt to exfiltrate data was taking place.</li>
+</ul>
+<h3>Victoria&#8217;s Emergency Services &#8211; November 2018</h3>
+<ul>
+<li><a href="https://www.smh.com.au/politics/victoria/appalling-emergency-services-data-breach-to-be-investigated-20181124-p50i29.html" target="_blank" rel="noopener noreferrer">&#8216;Appalling&#8217; emergency services data breach to be investigated</a> &#8211; The state government will launch an immediate investigation into an &#8220;appalling&#8221;  data breach that saw personal details of emergency services staff posted to the web.</li>
+</ul>
+<h3>Amazon &#8211; November 2018</h3>
+<ul>
+<li><a href="https://www.itwire.com/security/85362-amazon-suffers-data-breach,-but-says-little-about-it.html" target="_blank" rel="noopener noreferrer">Amazon suffers data breach, but says little about it &#8211;</a>Amazon delivered a nasty surprise on one of its busiest days of the year today after discovering it had “inadvertently” leaked customers’ personal information.</li>
+<li><a href="https://www.techradar.com/au/news/amazon-suffers-customer-data-breach-hours-before-black-friday" target="_blank" rel="noopener noreferrer">Amazon suffers customer data breach hours before Black Friday</a></li>
+<li><a href="https://www.businessinsider.com.au/amazon-customers-names-email-address-exposed-2018-11" target="_blank" rel="noopener noreferrer">Amazon is getting slammed for a confusing email telling some customers they don&#8217;t need to change their password after a data leak</a></li>
+<li><a href="https://www.gizmodo.com.au/2018/11/amazon-is-offering-gift-cards-to-customers-who-complain-about-its-data-breach-report/" target="_blank" rel="noopener noreferrer">Amazon Is Offering Gift Cards To Customers Who Complain About Its Data Breach</a></li>
+</ul>
+<h3>PageUp People &#8211; November 2018 Update</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/no-evidence-data-stolen-in-compromise-pageup-515978" target="_blank" rel="noopener noreferrer">No evidence&#8217; data stolen in compromise</a></li>
+</ul>
+<h3>Federal Group Hotel &#8211; November 2018</h3>
+<ul>
+<li><a href="https://www.examiner.com.au/story/5738140/federal-group-hotel-contact-databases-hit-by-low-risk-data-breach/?cs=95">Contact databases hit by ‘low risk’ data breach</a> &#8211; A Tasmanian luxury hotel and casino group has told some guests their personal information may have been accessed by a third party after a “low risk” data breach saw contact databases affected.</li>
+<li><a href="https://www.abc.net.au/news/2018-11-02/privacy-breach-at-resorts-owned-by-federal-group/10462072">Data breach hits luxury hotels in Tasmania, with guest details at risk of theft by &#8216;third party&#8217;</a>.</li>
+</ul>
+<h3>Under Armour’s MyFitnessPal App &#8211; November 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/under-armour-says-4-million-aussie-accounts-in-data-breach-515095">Under Armour says 4 million Aussie accounts in data breach &#8211; 150 million impacted worldwide</a></li>
+</ul>
+<h3>Austal &#8211; October 2018</h3>
+<ul>
+<li><a href="https://www.afr.com/business/extortionists-target-aussie-defence-shipbuilder-after-cyber-security-breach-20181101-h17ei4"> Extortionists target Aussie defence shipbuilder after cyber security breach</a><br />
+Australia&#8217;s biggest defence exporter has been targeted by extortionists <a href="https://www.theaustralian.com.au/news/latest-news/shipbuilder-austal-a-victim-of-data-breach/news-story/0d159dbc1d819ad576f821b8903dacbc">who launched a successful cyber attack to breach the company&#8217;s data management systems.</a></li>
+<li><a href="https://www.itnews.com.au/news/austal-faces-extortion-bid-after-data-breach-514943">Shipbuilder&#8217;s information accessed and offered for sale.</a></li>
+</ul>
+<h3>Facebook &#8211; September 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/facebook-security-breach-affects-50-million-users-513280" target="_blank" rel="noopener noreferrer">Security breach affects 50 million users</a> &#8211; company logs off 90 million accounts as a precaution.</li>
+<li><a href="https://www.wired.com/story/facebook-security-breach-50-million-accounts/" target="_blank" rel="noopener noreferrer">Everything we know about Facebook&#8217;s data breach</a></li>
+<li><a href="https://www.forbes.com/sites/kateoflahertyuk/2018/09/29/facebook-data-breach-what-to-do-next/#3d56604c2de3" target="_blank" rel="noopener noreferrer">Forbes coverage of Facebooks massive data breach</a></li>
+<li><a href="https://www.news.com.au/world/breaking-news/millions-affected-by-facebook-breach/news-story/f14376bb14c3632e782dde126d82b196" target="_blank" rel="noopener noreferrer">Facebook trims data breach to 29m users</a></li>
+<li><a href="https://www.news.com.au/technology/online/social/fbi-investigates-facebooks-worst-ever-security-breach/news-story/2bbaf8de2bb9b5536179f0f625d807e4" target="_blank" rel="noopener noreferrer">Facebook says it will message users affected following the theft of data from 29 million accounts</a> to tell them what type of information has been accessed.</li>
+</ul>
+<h3>Perth Mint &#8211; September 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/perth-mint-revises-data-breach-impact-512734?eid=65&amp;edate=20180918&amp;utm_source=20180918&amp;utm_medium=newsletter&amp;utm_campaign=sc_weekly" target="_blank" rel="noopener noreferrer">Perth Mint revises data breach impact</a> &#8211; thousands of customers now affected.</li>
+</ul>
+<h3>RCR Tomlinson Engineering &#8211; August 2018</h3>
+<ul>
+<li><a href="https://www.afr.com/business/rcr-tomlinson-delays-3-months-telling-oaio-employees-details-were-scammed-20180817-h144kj" target="_blank" rel="noopener noreferrer">RCR Tomlinson sat on staff data breach for three months.</a></li>
+</ul>
+<h3>Strathmore Secondary College &#8211; August 2018</h3>
+<ul>
+<li><a href="https://www.sbs.com.au/news/probe-into-melb-high-school-privacy-breach" target="_blank" rel="noopener noreferrer">Probe into Melb high school privacy breach</a> &#8211; The education department is investigating a privacy breach resulting in the accidental publication of Melbourne high school students&#8217; personal records.</li>
+</ul>
+<h3>Airport Security Identity Cards (ASICs) &#8211; July 2018</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2018-07-12/afp-investigating-airport-security-card-data-hack/9981796" target="_blank" rel="noopener noreferrer">Airport security card company reveals data hack as AFP investigates.</a></li>
+</ul>
+<h3>MY Health Record &#8211; July 2018</h3>
+<ul>
+<li><a href="https://theconversation.com/what-could-a-my-health-record-data-breach-look-like-100090" target="_blank" rel="noopener noreferrer">Could be our worst government data breach yet.</a></li>
+<li><a href="https://www.healthcareit.com.au/article/my-health-record-security-concerns-persist-adha-issues-amended-contracts-third-party-apps">My Health record data breach.</a></li>
+<li><a href="https://www.healthcareit.com.au/article/privacy-commissioner-poised-release-delayed-data-breach-report-my-health-record-adopts" target="_blank" rel="noopener noreferrer">Privacy Commissioner poised to release delayed data breach report</a> but My Health Record adopts a different definition</li>
+</ul>
+<h3>Townsville City Council [Typeform] &#8211;  July 2018</h3>
+<ul>
+<li><a href="https://www.townsville.qld.gov.au/about-council/news-and-publications/media-releases/2018/july/townsville-city-council-confirms-limited-exposure-to-typeform-security-breach" target="_blank" rel="noopener noreferrer">Online system used by Townsville City Council hacked exposing public&#8217;s personal details. </a> HACKERS may have obtained the personal details who entered an art competition run by Townsville City Council. The council confirmed it had been notified about a security breach on Typeform, a company it uses.</li>
+</ul>
+<h3>Timehop App &#8211; July 2018</h3>
+<ul>
+<li><a href="https://www.businessinsider.com.au/timehop-breach-21-million-users-2018-7" target="_blank" rel="noopener noreferrer">Social media memories app Timehop got hit by a data breach</a> affecting 21 million users.</li>
+<li><a href="https://securitybrief.com.au/story/time-capsule-app-timehop-breached-21-million-users-affected/" target="_blank" rel="noopener noreferrer">Security Brief&#8217;s article on the Timehop hack</a></li>
+<li><a href="https://www.pcauthority.com.au/news/timehop-suffers-data-breach-with-21-million-users-compromised-497537" target="_blank" rel="noopener noreferrer">PC Authority&#8217;s coverage on the Timehop data breach</a></li>
+</ul>
+<h3>Cairns council hit by data breach [Typeform] | July 2018</h3>
+<ul>
+<li><a href="https://www.sbs.com.au/news/cairns-council-hit-by-data-breach" target="_blank" rel="noopener noreferrer">Cairns Regional Council has confirmed two of its online surveys were impacted by data security breaches</a></li>
+<li><a href="https://www.cairnspost.com.au/news/cairns/council-apologises-after-hackers-breach-cairns-residents-personal-information/news-story/7a54a630bee57da1036941ce52771f21" target="_blank" rel="noopener noreferrer">Cairns Council Apologies After Hackers Breach Forms</a></li>
+</ul>
+<h3>PEXA &#8211; National e-conveyancing platform &#8211; July 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/pexa-account-compromise-sees-family-lose-home-sale-funds-495249">PEXA account compromise sees family lose home sale funds</a> – Security team scanning logs for same pattern.</li>
+</ul>
+<h3>Australian National University &#8211; July 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/anu-network-significantly-compromised-by-hackers-497110" target="_blank" rel="noopener noreferrer">ANU network &#8216;significantly compromised&#8217; by hackers</a> – University has spent &#8216;months&#8217; containing threat<strong><br />
+</strong></li>
+<li><a href="https://www.brisbanetimes.com.au/politics/federal/chinese-hackers-breach-anu-putting-national-security-at-risk-20180706-p4zq0q.html" target="_blank" rel="noopener noreferrer">Chinese Hackers Breach ANU</a></li>
+</ul>
+<h3>Airtasker &#8211; July 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/airtasker-caught-up-in-typeform-data-breach-496795" target="_blank" rel="noopener noreferrer">Airtasker caught up in Typeform data breach</a> – Jobs marketplace Airtasker has revealed a “small amount” of data it collected through web forms may have been compromised in the Typeform breach</li>
+</ul>
+<h3>Bakers Delight &#8211; July 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/bakers-delight-warns-comp-entrants-after-typeform-breach-496665" target="_blank" rel="noopener noreferrer">Bakers Delight warns comp entrants after Typeform breach</a> – latest Australian company to notify customers of potential exposure to the Typeform data breach.</li>
+</ul>
+<h3>Tasmanian Electoral Commission &#8211; July 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/tasmanian-voters-caught-in-data-breach-496443" target="_blank" rel="noopener noreferrer">Tasmanian voters caught in data breach – Express vote applicants impacted</a></li>
+</ul>
+<h3>Ticketmaster &#8211; June 2018</h3>
+<ul>
+<li><a href="https://www.abc.net.au/news/2018-06-28/ticketmaster-contacts-customers-personal-details-data-breach/9919124" target="_blank" rel="noopener noreferrer">Ticketmaster Australia admits customer details may have been stolen in hack.</a></li>
+<li><a href="http://musicfeeds.com.au/news/australian-ticketmaster-customers-suspected-data-breach/" target="_blank" rel="noopener noreferrer">Musicfeeds Article</a></li>
+<li><a href="https://www.smh.com.au/entertainment/music/australian-customers-caught-in-suspected-ticketmaster-data-breach-20180628-p4zo8h.html" target="_blank" rel="noopener noreferrer">Sydney Morning Herald Article</a></li>
+</ul>
+<h3>HealthEngine &#8211; June 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/healthengine-reveals-data-breach-496175" target="_blank" rel="noopener noreferrer">HealthEngine reveals data breach – Patient feedback information &#8216;may&#8217; have been accessed</a></li>
+</ul>
+<h3>Flightradar24 &#8211; June 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/flightradar24-suffers-security-breach-494799" target="_blank" rel="noopener noreferrer">Flightradar24 suffers security breach – Attackers hit single server</a> &#8211; Popular flight tracking site Flightradar24 has suffered a security breach that “may” have compromised the email addresses and hashed passwords</li>
+</ul>
+<h3>PageUp People &#8211; June 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/pageup-people-all-but-confirms-personal-data-accessed-493481" target="_blank" rel="noopener noreferrer">PageUp People all but confirms personal data &#8216;accessed&#8217;</a> &#8211; Widely-used Australian cloud HR vendor</li>
+</ul>
+<h3>MyHeritage &#8211; June 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/myheritage-breach-leaks-92-million-users-details-492865" target="_blank" rel="noopener noreferrer">MyHeritage breach leaks 92 million users&#8217; details</a> &#8211; A security breach at family networking and genealogy website leaked email addresses and hashed passwords of users</li>
+</ul>
+<h3>Family Planning NSW &#8211; May 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/family-planning-nsw-hit-by-ransomware-attack-490904" target="_blank" rel="noopener noreferrer">Family Planning NSW hit by ransomware attack</a> – may have compromised online databases.</li>
+</ul>
+<h3>Svitzer Australia &#8211; March 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/first-data-breach-publicised-under-australian-notice-scheme-487143" target="_blank" rel="noopener noreferrer">First data breach publicised under Australian notice scheme</a> – Svizter reveals email leak</li>
+</ul>
+<h3>GoGet &#8211; January 2018</h3>
+<ul>
+<li><a href="https://www.itnews.com.au/news/goget-reveals-data-breach-as-police-arrest-alleged-hacker-482180" target="_blank" rel="noopener noreferrer">GoGet reveals data breach as police arrest alleged hacker </a>– Car Sharing Service – Customer data accessed</li>

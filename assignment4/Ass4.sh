@@ -14,6 +14,7 @@
 
 #curl website to output.txt
 url="https://www.webberinsurance.com.au/data-breaches-list"
+#Downloaded website incase offline
 #url="file:///home/gary/scripts/portfolio/assignment4/ass4web/data-breaches-list"
 curl=$(which curl) 
 outfile="output.txt" 
@@ -95,6 +96,7 @@ then
     source ./state.sh
     echo
     echo "Significant Data Breaches for $state - Past 4 Years:"
+    #Different ways of passing variable filter - disabled
     #sed -i -n "/$state/p" output.txt
     #awk -v a="$state" '/<h3>/{myvar = $0};/a/{ print myvar }' output.txt > temp.txt
     awk '/<h3>/{myvar = $0}/'$state'/{ print myvar }' output.txt > temp && mv temp output.txt
@@ -104,9 +106,6 @@ then
     awk '!seen[$0]++' temp.txt > temp && mv temp temp.txt
 
     awk -f ass4list.awk temp.txt
-
-
-
 fi
 }
 

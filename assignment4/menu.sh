@@ -37,46 +37,46 @@ do
     echo "5. Show All${sgr0}"
     echo "0. Exit"
 
-# Run option selected
-read -p "" myoption
+    # Run option selected
+    read -p "" myoption
 
-case $myoption in
-    1)
-        #echo "Data Breaches By Year"
-        clear
-        ./Ass4.sh Count
-        ;;
-    2)
-        #tree
-        #echo "List All Data Breaches"
-        clear
-        ./Ass4.sh List
-        ;;
-    3)
-        #tree
-        #echo "List All Data Breaches"
-        clear
-        ./Ass4.sh State
-        ;;
-    4)
-        #echo "Display Chart"
-        clear
-        figlet "Chart"
-        ./Ass4.sh Chart
-        ;;
-    5)
-        #echo "All:"
-        ./Ass4.sh Chart List Count
-        ;;
-    0)
-        #echo "Exit"
-        echo "Closing..."
-        exit 0
-        ;;
-    *)  
-        printError "Not a valid option!"
-        ;;
-esac
+    case $myoption in
+        1)
+            #echo "Data Breaches By Year"
+            clear
+            ./Ass4.sh Count
+            ;;
+        2)
+            #tree
+            #echo "List All Data Breaches"
+            clear
+            ./Ass4.sh List
+            ;;
+        3)
+            #tree
+            #echo "List All Data Breaches"
+            clear
+            ./Ass4.sh State
+            ;;
+        4)
+            #echo "Display Chart"
+            clear
+            figlet "Chart"
+            ./Ass4.sh Chart
+            ;;
+        5)
+            #echo "All:"
+            ./Ass4.sh Chart List Count
+            ;;
+        0)
+            #echo "Exit"
+            echo "Closing..."
+            exit 0
+            ;;
+        *)  
+            printError "Not a valid option!"
+            ;;
+    esac
 done
 
 exit 0

@@ -63,7 +63,7 @@ do
             ;;
         6)
             #echo "Check Filenames:"
-            ../week3/filenames.sh
+            ../week3/filenames.sh filenames.txt
             ;;
         7)
             #echo "Downlaod a File"
